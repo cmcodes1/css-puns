@@ -51,3 +51,9 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 	pointer-events: none;
 }
 ```
+
+```css
+.dragon-ball {
+	z-index: 9001;
+}
+```
