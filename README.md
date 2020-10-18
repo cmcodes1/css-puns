@@ -37,3 +37,10 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 	margin: 0%;
 }
 ```
+
+```css
+.illuminati {
+	position: absolute;
+	visibility: hidden;
+}
+```
