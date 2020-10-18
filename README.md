@@ -75,3 +75,8 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   word-spacing: 0;
 }
 ```
+```css
+#titanic{
+  float: none;
+}
+```
