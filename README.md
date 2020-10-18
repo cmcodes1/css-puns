@@ -44,3 +44,10 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 	visibility: hidden;
 }
 ```
+
+```css
+.ghost {
+	opacity: 0.1;
+	pointer-events: none;
+}
+```
