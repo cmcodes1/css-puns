@@ -70,3 +70,13 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   width: 999999px;
 }
 ```
+
+```
+.periodic:
+  display:table;
+```
+
+```
+#rap-artists{
+  word-spacing: none;
+```
