@@ -30,3 +30,10 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 	color: green;
 }
 ```
+
+```css
+#wife {
+	right: 100%;
+	margin: 0%;
+}
+```
