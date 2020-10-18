@@ -3,6 +3,12 @@
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
+#titanic {
+   Float : none;
+}
+```
+
+```css
 .ninja {
   visibility: hidden;
   color: black;
