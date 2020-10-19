@@ -84,3 +84,10 @@ float: none;
 .hobbit #foot{
 width: 200%;
 ```
+
+```css
+.eminem {
+	word-spacing: 0;
+}
+```
+
