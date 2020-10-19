@@ -60,6 +60,13 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.fear{
+  display: none;
+}
+```
+
+
+```css
 #chucknorris {
   color: #bada55;
 }
