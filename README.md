@@ -72,6 +72,16 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.periodic:
+  display:table;
+```
+
+```css
+#rap-artists{
+  word-spacing: none;
+```
+
+```css
 .titanic{
 float: none;
 }
@@ -90,4 +100,3 @@ width: 200%;
 	word-spacing: 0;
 }
 ```
-
