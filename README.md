@@ -65,8 +65,13 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 }
 ```
 
-```css
+````css
 .yomama {
   width: 999999px;
 }
-```
+
+```css .reader-eye {
+  filter: blur(100px);
+  background-color: black;
+}
+````
