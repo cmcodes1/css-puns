@@ -99,6 +99,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 #titanic{
   float: none;
+```
 
 ```css
 .periodic:
@@ -131,7 +132,14 @@ width: 200%;
 ```
 
 ```css
+#lego {
+	display: block;
+}
+```
+
+```css
 #titanic{
     float: none;
     }
 ```
+
