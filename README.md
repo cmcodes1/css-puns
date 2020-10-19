@@ -71,7 +71,6 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 }
 ```
 
-
 ```css
 #chucknorris {
   color: #bada55;
@@ -82,6 +81,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 .yomama {
   width: 999999px;
 }
+```
 
 ```css
 .reader-eye {
@@ -99,11 +99,13 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 #titanic{
   float: none;
+}
 ```
 
 ```css
-.periodic:
+.periodic{
   display:table;
+}
 ```
 
 ```css
@@ -113,7 +115,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 .titanic{
-float: none;
+  float: none;
 }
 ```
 
@@ -122,30 +124,30 @@ float: none;
   height: 50%;
 }
 .hobbit #foot{
-width: 200%;
+  width: 200%;
 ```
 
 ```css
 .eminem {
-	word-spacing: 0;
+  word-spacing: 0;
 }
 ```
 
 ```css
 .titanic {
-	float:none;
-	bottom:0;
+  float:none;
+  bottom:0;
 }
 ```
 
-```
+```css
 #lego {
-	display: block;
+  display: block;
 }
 ```
 
 ```css
 #titanic{
     float: none;
-    }
+}
 ```
