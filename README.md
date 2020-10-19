@@ -132,6 +132,13 @@ width: 200%;
 ```
 
 ```css
+.titanic {
+	float:none;
+	bottom:0;
+}
+```
+
+```
 #lego {
 	display: block;
 }
@@ -142,4 +149,3 @@ width: 200%;
     float: none;
     }
 ```
-
