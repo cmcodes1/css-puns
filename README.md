@@ -129,3 +129,9 @@ width: 200%;
 	word-spacing: 0;
 }
 ```
+
+```css
+#titanic{
+    float: none;
+    }
+```
