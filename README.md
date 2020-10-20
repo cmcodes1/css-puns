@@ -91,13 +91,13 @@ width: 200%;
 }
 ```
 
-```
+```css
 #usa + #mexico {
   border: 1px dashed;
 }
 ```
 
-```
+```css
 .sniper-mode-engaged {
   cursor: crosshair;
 }
