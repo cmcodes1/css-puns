@@ -116,3 +116,9 @@ width: 200%;
 	word-spacing: 0;
 }
 ```
+```css
+#invisiblity-cloak{
+	visiblity: hidden;
+}
+```
+
