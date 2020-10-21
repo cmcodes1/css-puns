@@ -137,7 +137,9 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 #usa + #mexico {
   border: 1px dashed;
-=======
+```
+
+```css
 .titanic {
   float:none;
   bottom:0;
@@ -147,7 +149,9 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 .sniper-mode-engaged {
   cursor: crosshair;
-=======
+```
+
+```css
 #lego {
   display: block;
 }
@@ -155,12 +159,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 #titanic{
-    float: none;
-}
-```
-```css
-#invisiblity-cloak{
-	visiblity: hidden;
+  float: none;
 }
 ```
 
+```css
+#invisiblity-cloak{
+  visiblity: hidden;
+}
+```
