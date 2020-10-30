@@ -181,6 +181,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+#samsung{
+  @extend apple;
+}
+```
+
+```css
 #berlin-wall {
   border-collapse: collapse;
   height: 0;
