@@ -4,7 +4,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 #titanic {
-   float : none;
+  float: none;
 }
 ```
 
@@ -66,7 +66,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-.fear{
+.fear {
   display: none;
 }
 ```
@@ -91,20 +91,20 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-#rap-artist{
+#rap-artist {
   word-spacing: 0;
 }
 ```
 
 ```css
-#titanic{
+#titanic {
   float: none;
 }
 ```
 
 ```css
-.periodic{
-  display:table;
+.periodic {
+  display: table;
 }
 ```
 
@@ -114,16 +114,16 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-.titanic{
+.titanic {
   float: none;
 }
 ```
 
 ```css
-.hobbit{
+.hobbit {
   height: 50%;
 }
-.hobbit #foot{
+.hobbit #foot {
   width: 200%;
 }
 ```
@@ -141,8 +141,8 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 .titanic {
-  float:none;
-  bottom:0;
+  float: none;
+  bottom: 0;
 }
 ```
 
@@ -158,23 +158,27 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-#titanic{
+#titanic {
   float: none;
 }
 ```
 
 ```css
-#invisiblity-cloak{
+#invisiblity-cloak {
   visiblity: hidden;
 }
 ```
 
 ```css
-#muscles{
+#muscles {
   display: flex;
 }
 ```
 
+```css
+.yomama {
+  width: 999999px;
+```
 
 ```css
 #samsung{
@@ -182,4 +186,26 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 }
 ```
 
+```css
+#berlin-wall {
+  border-collapse: collapse;
+  height: 0;
+}
+```
 
+```css
+#moses > #sea {
+  column-count: 2;
+```
+
+```css
+#tortoise {
+	position: static;
+}
+```
+
+```css
+#kim-kardashian {
+  padding-bottom: 9999px;
+}
+```
