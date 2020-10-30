@@ -158,20 +158,27 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-#titanic{
+#titanic {
   float: none;
 }
 ```
 
 ```css
-#invisiblity-cloak{
+#invisiblity-cloak {
   visiblity: hidden;
 }
 ```
 
 ```css
-#muscles{
+#muscles {
   display: flex;
+}
+```
+
+```css
+#berlin-wall {
+  border-collapse: collapse;
+  height: 0;
 }
 ```
 
@@ -180,3 +187,4 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 	position: static;
 }
 ```
+
