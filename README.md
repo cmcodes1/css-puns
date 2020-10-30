@@ -178,12 +178,23 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 .yomama {
   width: 999999px;
+```
+
+```css
+#berlin-wall {
+  border-collapse: collapse;
+  height: 0;
 }
 ```
 
 ```css
 #moses > #sea {
   column-count: 2;
+```
+
+```css
+#tortoise {
+	position: static;
 }
 ```
 
