@@ -180,3 +180,15 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   width: 999999px;
 }
 ```
+
+```css
+#moses > #sea {
+  column-count: 2;
+}
+```
+
+```css
+#kim-kardashian {
+  padding-bottom: 9999px;
+}
+```
