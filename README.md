@@ -275,9 +275,20 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+#dwayne-johnson {
+	font-weight: bold;
+}
+```
+
+```css
 #corona > .quarantine {
   break-inside: initial
 }
+```
+
+```css
+#rip {
+	bottom: -22677px;
 ```
 
 ```css
