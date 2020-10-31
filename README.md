@@ -217,6 +217,11 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+#ocean {
+  background-color: blue;
+```
+
+```css
 .bambis-mom {
    cursor: crosshair;
    orphans: 1;
@@ -243,6 +248,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   display: flex;
 }
 ```
+
+```css
+#earth {
+  border-radius: 50%;
+}
+```		
 
 ```css
 #ikea {
