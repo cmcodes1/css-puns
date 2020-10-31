@@ -217,6 +217,13 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.bambis-mom {
+  cursor: crosshair;
+  orphans: 1;
+}
+```
+
+```css
 #domino {
   font-style: italic;
 ```
