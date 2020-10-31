@@ -275,6 +275,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+#corona > .quarantine {
+  break-inside: initial
+}
+```
+
+```css
 #weasley-family-hair {
 	color: orange;
 }
