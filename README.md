@@ -3,6 +3,12 @@
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
+#bodybuilder {
+   display: flex;
+}
+```
+
+```css
 #titanic {
   float: none;
 }
@@ -214,5 +220,32 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 .bambis-mom {
   cursor: crosshair;
   orphans: 1;
+}
+```
+
+```css
+#domino {
+  font-style: italic;
+```
+
+```css
+.rich-people{
+  top:1%;
+}
+
+.working-class{
+  bottom:99%;
+}
+```
+
+```css
+#save-my-life {
+  display: flex;
+}
+```
+
+```css
+#ikea {
+	display: table;
 }
 ```
