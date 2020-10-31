@@ -303,3 +303,14 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 	transform: translate3d();
 }
 ```
+
+```css
+#goku-hair {
+  color: black;
+  transition: color 9001s;
+}
+
+#goku-hair.super-saiyan {
+  color: yellow;
+}
+```
