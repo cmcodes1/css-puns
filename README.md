@@ -211,7 +211,18 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.rich-people{
+  top:1%;
+}
+
+.working-class{
+  bottom:99%;
+}
+```
+
+```css
 #ikea {
 	display: table;
 }
 ```
+
