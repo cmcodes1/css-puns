@@ -303,3 +303,15 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 	transform: translate3d();
 }
 ```
+
+```css
+#dwayne-johnson {
+  height: 150%;
+  font-weight: bold;
+}
+
+#kevin-hart {
+  height: 50%;
+  font-weight: lighter;
+}
+```
