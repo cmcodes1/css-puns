@@ -260,3 +260,11 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 	display: table;
 }
 ```
+
+```css
+#brazil {
+	background: green;
+  border-color: blue;
+  color: yellow;
+}
+```
