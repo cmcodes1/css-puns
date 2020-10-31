@@ -209,3 +209,16 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   padding-bottom: 9999px;
 }
 ```
+
+
+```css
+#ocean {
+  background-color: blue;
+}
+```
+
+```css
+#earth {
+  border-radius: 50%;
+}
+```		
