@@ -260,3 +260,9 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 	display: table;
 }
 ```
+
+```css
+#dwayne-johnson {
+	font-weight: bold;
+}
+```
