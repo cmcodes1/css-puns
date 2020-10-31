@@ -217,7 +217,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 #tortoise {
-	position: static;
+  position: static;
 }
 ```
 
@@ -270,13 +270,13 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 #ikea {
-	display: table;
+  display: table;
 }
 ```
 
 ```css
 #dwayne-johnson {
-	font-weight: bold;
+  font-weight: bold;
 }
 ```
 
@@ -288,11 +288,11 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 #rip {
-	bottom: -22677px;
+  bottom: -22677px;
 ```
 
 ```css
 #weasley-family-hair {
-	color: orange;
+  color: orange;
 }
 ```
