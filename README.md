@@ -305,6 +305,18 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+#dwayne-johnson {
+  height: 150%;
+  font-weight: bold;
+}
+
+#kevin-hart {
+  height: 50%;
+  font-weight: lighter;
+}
+```
+
+```css
 #goku-hair {
   color: black;
   transition: color 9001s;
