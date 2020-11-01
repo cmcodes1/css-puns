@@ -305,6 +305,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.obese {
+	width: 200%;
+	overflow:visible;
+```
+
+```css
 #mario.mushroom {
 	transform: scale(200%);
 }
