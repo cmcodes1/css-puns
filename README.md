@@ -305,6 +305,14 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.ghost {
+  display: inline;
+  color: white;
+  opacity: 0.1;
+}
+```
+
+```css
 .karen{
   position: absolute;
   width: 200%;
