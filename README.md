@@ -330,6 +330,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 #goku-hair.super-saiyan {
   color: yellow;
+}
 ```
 
 ```css
@@ -345,17 +346,20 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   position: absolute;
   width: 200%;
   z-index: 999;
+}
 ```
 
 ```css
 #dictatorship {
   position: absolute;
+}
 ```
 
 ```css
 .obese {
   width: 200%;
   overflow:visible;
+}
 ```
 
 ```css
