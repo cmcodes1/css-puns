@@ -305,6 +305,13 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.karen{
+  position: absolute;
+  width: 200%;
+  z-index: 999;
+```
+
+```css
 #dictatorship {
     position: absolute;
 ```
