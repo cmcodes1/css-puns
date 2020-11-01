@@ -1,7 +1,7 @@
 # Contribution Guide
 Welcome and thank you for sharing your CSS pun here! 😊  
 
-Add your CSS pun in the [README.md](https://github.com/cmcodes1/css-puns/blob/main/README.md) page in the following format.
+Add your CSS pun at the top in the [README.md](https://github.com/cmcodes1/css-puns/blob/main/README.md) page in the following format.
 
 - Add ` ```css ` in a new line before writing your pun
 - In the next line, type your pun
@@ -9,8 +9,8 @@ Add your CSS pun in the [README.md](https://github.com/cmcodes1/css-puns/blob/ma
 
 ```css
 .ninja {
-	visibility: hidden;
-	color: black;
+  visibility: hidden;
+  color: black;
 }
 ```
 

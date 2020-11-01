@@ -3,6 +3,12 @@
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
+#infinity-edge-pools {
+   overflow: hidden;
+}
+```
+
+```css
 #bodybuilder {
    display: flex;
 }
