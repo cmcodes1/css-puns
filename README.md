@@ -312,5 +312,36 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 #goku-hair.super-saiyan {
   color: yellow;
+```
+
+```css
+.ghost {
+  display: inline;
+  color: white;
+  opacity: 0.1;
+}
+```
+
+```css
+.karen{
+  position: absolute;
+  width: 200%;
+  z-index: 999;
+```
+
+```css
+#dictatorship {
+    position: absolute;
+```
+
+```css
+.obese {
+	width: 200%;
+	overflow:visible;
+```
+
+```css
+#mario.mushroom {
+	transform: scale(200%);
 }
 ```
