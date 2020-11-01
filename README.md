@@ -363,3 +363,11 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 	transform: scale(200%);
 }
 ```
+
+```css
+#brazil {
+	background: green;
+  border-color: blue;
+  color: yellow;
+}
+```
