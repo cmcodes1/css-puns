@@ -305,6 +305,16 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+#goku-hair {
+  color: black;
+  transition: color 9001s;
+}
+
+#goku-hair.super-saiyan {
+  color: yellow;
+```
+
+```css
 .ghost {
   display: inline;
   color: white;
