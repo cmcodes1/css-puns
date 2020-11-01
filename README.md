@@ -349,24 +349,24 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 #dictatorship {
-    position: absolute;
+  position: absolute;
 ```
 
 ```css
 .obese {
-	width: 200%;
-	overflow:visible;
+  width: 200%;
+  overflow:visible;
 ```
 
 ```css
 #mario.mushroom {
-	transform: scale(200%);
+  transform: scale(200%);
 }
 ```
 
 ```css
 #brazil {
-	background: green;
+  background: green;
   border-color: blue;
   color: yellow;
 }
