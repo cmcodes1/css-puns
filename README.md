@@ -307,5 +307,16 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 #dictatorship {
     position: absolute;
+```
+
+```css
+.obese {
+	width: 200%;
+	overflow:visible;
+```
+
+```css
+#mario.mushroom {
+	transform: scale(200%);
 }
 ```
