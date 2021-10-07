@@ -375,3 +375,11 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   color: yellow;
 }
 ```
+
+```css
+@media print {
+  .news {
+    content: open-quote;
+  }
+}
+```
