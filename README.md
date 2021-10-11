@@ -381,3 +381,15 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   visibility: hidden;
 }
 ```
+
+```css
+#prison .escape {
+  empty-cells: show;
+}
+```
+
+```css
+.court > .advocate {
+  justify-content: inherit;
+}
+```
