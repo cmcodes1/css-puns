@@ -15,6 +15,14 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+#redmi-mobile-ads {
+  display:block;
+  transform: scale(100%);
+  filter: blur(20px);
+}
+```
+
+```css
 .ninja {
   visibility: hidden;
   color: black;
