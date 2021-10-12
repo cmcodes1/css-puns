@@ -3,6 +3,11 @@
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
+.monarch {
+  position: inherit;
+}
+
+```css
 #luffy.boa {
   visibility:false;
 }
@@ -37,7 +42,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 #bodybuilder {
-   display: flex;
+  display: flex;
 }
 ```
 
@@ -198,7 +203,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 .sniper-mode-engaged {
   cursor: crosshair;
-  }
+}
 ```
 
 ```css
@@ -276,8 +281,8 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 .bambis-mom {
-   cursor: crosshair;
-   orphans: 1;
+  cursor: crosshair;
+  orphans: 1;
 }
 ```
 
@@ -289,11 +294,11 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 .rich-people {
-  top:1%;
+  top: 1%;
 }
 
 .working-class {
-  bottom:99%;
+  bottom: 99%;
 }
 ```
 
@@ -307,7 +312,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 #earth {
   border-radius: 50%;
 }
-```		
+```
 
 ```css
 #ikea {
@@ -323,7 +328,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 #corona > .quarantine {
-  break-inside: initial
+  break-inside: initial;
 }
 ```
 
@@ -383,7 +388,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-.karen{
+.karen {
   position: absolute;
   width: 200%;
   z-index: 999;
@@ -399,7 +404,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 .obese {
   width: 200%;
-  overflow:visible;
+  overflow: visible;
 }
 ```
 
