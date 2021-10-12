@@ -11,6 +11,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+#bruce-banner{
+color: green;
+transition: 10s;
+}
+
+```css
 #bodybuilder {
    display: flex;
 }
@@ -381,5 +387,24 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   background: green;
   border-color: blue;
   color: yellow;
+}
+```
+
+```css
+#europe {
+	border: none;
+}
+```
+
+```css
+#big-bang::before {
+   content: "";
+}
+```
+
+```css
+.optimism {
+  colour: rose;
+  opacity: 0.5;
 }
 ```
