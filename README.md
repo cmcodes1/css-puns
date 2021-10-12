@@ -1,16 +1,73 @@
 # css-puns
 
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
+```css
+#wife {
+   right:100%;
+}
+```
+
+```css
+.monarch {
+  position: inherit;
+}
+
+```css
+#luffy.boa {
+  visibility:false;
+}
+```
+
+```css
+#luffy.meat{
+   visibility:true;
+}
+```
+
+```css
+.aliens {
+  color: green;
+  visibility: hidden;
+```
+
+```css
+#me .sleep {
+   position: relative;
+   padding-top: 20%;
+   transform: skewY(150deg);
+}
+```
+
+```css
+#bruce-banner{
+  color: green;
+  transition: 10s;
+}
+```
+
+```css
+#infinity-edge-pools {
+   overflow: hidden;
+}
+```
 
 ```css
 #bodybuilder {
-   display: flex;
+  display: flex;
 }
 ```
 
 ```css
 #titanic {
   float: none;
+}
+```
+
+```css
+#redmi-mobile-ads {
+  display:block;
+  transform: scale(100%);
+  filter: blur(20px);
 }
 ```
 
@@ -157,7 +214,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 .sniper-mode-engaged {
   cursor: crosshair;
-  }
+}
 ```
 
 ```css
@@ -235,8 +292,8 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 .bambis-mom {
-   cursor: crosshair;
-   orphans: 1;
+  cursor: crosshair;
+  orphans: 1;
 }
 ```
 
@@ -248,11 +305,11 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 .rich-people {
-  top:1%;
+  top: 1%;
 }
 
 .working-class {
-  bottom:99%;
+  bottom: 99%;
 }
 ```
 
@@ -266,7 +323,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 #earth {
   border-radius: 50%;
 }
-```		
+```
 
 ```css
 #ikea {
@@ -282,7 +339,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 #corona > .quarantine {
-  break-inside: initial
+  break-inside: initial;
 }
 ```
 
@@ -342,7 +399,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-.karen{
+.karen {
   position: absolute;
   width: 200%;
   z-index: 999;
@@ -358,7 +415,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 .obese {
   width: 200%;
-  overflow:visible;
+  overflow: visible;
 }
 ```
 
@@ -379,5 +436,36 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 #monarch {
   position: inherit;
+}
+```
+
+```css
+#tower-of-pisa {
+   font-style: italic;
+}
+```
+
+```css
+.boku-no-pico {
+   display: none;
+}
+```
+
+```css
+#europe {
+	border: none;
+}
+```
+
+```css
+#big-bang::before {
+   content: "";
+}
+```
+
+```css
+.optimism {
+  colour: rose;
+  opacity: 0.5;
 }
 ```
