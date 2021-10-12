@@ -3,6 +3,13 @@
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
+.aliens {
+  color: green;
+  visibility: hidden;
+}
+```
+
+```css
 #bodybuilder {
    display: flex;
 }
