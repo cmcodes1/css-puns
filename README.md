@@ -383,6 +383,12 @@ transition: 10s;
 ```
 
 ```css
+#europe {
+	border: none;
+}
+```
+
+```css
 #big-bang::before {
    content: "";
 }
