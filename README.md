@@ -75,6 +75,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 .ninja {
   visibility: hidden;
   color: black;
+  animation-duration: 0.00001s
 }
 ```
 
