@@ -380,3 +380,10 @@ transition: 10s;
   color: yellow;
 }
 ```
+
+```css
+.optimism {
+  colour: rose;
+  opacity: 0.5;
+}
+```
