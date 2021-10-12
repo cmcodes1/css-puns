@@ -434,6 +434,11 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+#tower-of-pisa {
+   font-style: italic;
+}
+
+```css
 .boku-no-pico {
    display: none;
  }
