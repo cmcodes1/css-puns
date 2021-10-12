@@ -3,6 +3,18 @@
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
+#luffy.boa {
+  visibility:false;
+}
+```
+
+```css
+#luffy.meat{
+   visibility:true;
+}
+```
+
+```css
 .aliens {
   color: green;
   visibility: hidden;
