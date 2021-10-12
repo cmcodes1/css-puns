@@ -434,6 +434,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.internet-explorer {
+     break-inside:auto;
+}
+```
+
+```css
 @media print {
   .news {
     content: open-quote;
