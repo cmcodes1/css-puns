@@ -434,8 +434,22 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+@media print {
+  .news {
+    content: open-quote;
+  }
+}
+```
+
+```css
 #bermuda-triangle {
   display: none;
+}
+```
+
+```css
+.lender + .borrower {
+  visibility: hidden;
 }
 ```
 
@@ -446,8 +460,19 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+#prison .escape {
+  empty-cells: show;
+}
+
+```css
 #tower-of-pisa {
    font-style: italic;
+}
+```
+
+```css
+.court > .advocate {
+  justify-content: inherit;
 }
 ```
 
