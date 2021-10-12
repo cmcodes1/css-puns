@@ -507,3 +507,15 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   opacity: 0.5;
 }
 ```
+
+```css
+#move-forward {
+  colour: green;
+}
+```
+
+```css
+#stop {
+  colour: red;
+}
+```
