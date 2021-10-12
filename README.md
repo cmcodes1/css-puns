@@ -9,6 +9,27 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.aliens {
+  color: green;
+  visibility: hidden;
+```
+
+```css
+#me .sleep {
+   position: relative;
+   padding-top: 20%;
+   transform: skewY(150deg);
+}
+```
+
+```css
+#bruce-banner{
+  color: green;
+  transition: 10s;
+}
+```
+
+```css
 #bodybuilder {
   display: flex;
 }
@@ -17,6 +38,14 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 #titanic {
   float: none;
+}
+```
+
+```css
+#redmi-mobile-ads {
+  display:block;
+  transform: scale(100%);
+  filter: blur(20px);
 }
 ```
 
@@ -379,5 +408,24 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   background: green;
   border-color: blue;
   color: yellow;
+}
+```
+
+```css
+#europe {
+	border: none;
+}
+```
+
+```css
+#big-bang::before {
+   content: "";
+}
+```
+
+```css
+.optimism {
+  colour: rose;
+  opacity: 0.5;
 }
 ```
