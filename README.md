@@ -1,6 +1,7 @@
 # css-puns
 
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
+
 ```css
 #bruce-banner{
 color: green;
@@ -378,6 +379,12 @@ transition: 10s;
   background: green;
   border-color: blue;
   color: yellow;
+}
+```
+
+```css
+#big-bang::before {
+   content: "";
 }
 ```
 
