@@ -3,6 +3,12 @@
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
+.aliens {
+  color: green;
+  visibility: hidden;
+```
+
+```css
 #me .sleep {
    position: relative;
    padding-top: 20%;
@@ -12,9 +18,10 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 #bruce-banner{
-color: green;
-transition: 10s;
+  color: green;
+  transition: 10s;
 }
+```
 
 ```css
 #bodybuilder {
