@@ -509,6 +509,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.john-cena {
+  visibility: none;
+}
+```
+
+```css
 .government {
   transition: all 4yr ease-out;
 }
