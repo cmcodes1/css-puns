@@ -516,8 +516,20 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+#move-forward {
+  colour: green;
+}
+```
+
+```css
 .john-cena {
   visibility: none;
+}
+```
+
+```css
+#stop {
+  colour: red;
 }
 ```
 
