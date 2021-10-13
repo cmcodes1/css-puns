@@ -2,6 +2,13 @@
 
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
+#who_asked{
+  visibility: hidden;
+  text-decoration: none;
+ }
+```
+
+```css
 #wife {
    right:100%;
 }
@@ -515,7 +522,19 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.john-cena {
+  visibility: none;
+}
+```
+
+```css
 #stop {
   colour: red;
+}
+```
+
+```css
+.government {
+  transition: all 4yr ease-out;
 }
 ```
