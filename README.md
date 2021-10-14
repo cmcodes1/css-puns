@@ -541,6 +541,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 .light-mode {
-  brightness: (200%);
+  brightness(200%);
+}
+```
+
+```css
+.dark-mode {
+  brightness(0%);
 }
 ```
