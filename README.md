@@ -544,3 +544,10 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   color: white;
   display: flex;
 }
+```
+
+```css
+.internet-explorer{
+  visibility: none;
+}
+```
