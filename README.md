@@ -538,3 +538,13 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   transition: all 4yr ease-out;
 }
 ```
+
+```css
+#crustyCrab {
+  color: red;
+  height: 100px;
+  position: absolute;
+  visibility: hidden;
+  width: 100px;
+}
+```
