@@ -1,6 +1,13 @@
 # css-puns
 
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
+
+```css
+#usa + #mexico {
+  border: 1px dashed;
+} 
+```
+
 ```css
 #who_asked{
   visibility: hidden;
@@ -11,6 +18,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 #wife {
    right:100%;
+   margin: 0;
 }
 ```
 
