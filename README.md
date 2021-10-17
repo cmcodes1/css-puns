@@ -1,6 +1,13 @@
 # css-puns
 
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
+
+```css
+.religious-upbringing{
+	perspective:inherit;
+}
+```
+
 ```css
 #who_asked{
   visibility: hidden;
