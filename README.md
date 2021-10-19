@@ -20,6 +20,11 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 }
 
 ```css
+.china {
+  border-style:solid;
+}
+
+```css
 #luffy.boa {
   visibility:false;
 }
