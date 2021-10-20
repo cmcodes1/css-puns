@@ -541,6 +541,13 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.taj-mahal{
+  color: white;
+  display: flex;
+}
+```
+
+```css
 .light-mode {
   brightness(200%);
 ```
@@ -561,6 +568,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 .eminem {
   word-spacing: 0;
   animation-duration: 0.00001s;
+}
+```
+
+```css
+.internet-explorer{
+  visibility: none;
 }
 ```
 
