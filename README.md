@@ -47,6 +47,27 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+#what_color_am_i{
+	display: block;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	color: #fff;
+	background: linear-gradient(-45deg, #FF944D, #EE7752, #E73C7E, #23A6D5, #23D5AB, #00B359);
+	background-size: 400%, 400%;
+	position: relative; 
+	animation: animate 10s ease-in-out infinite; 
+}
+
+@keyframes animate {
+	0%{ 	background-position: 0 50%;	}
+	50%{	background-position: 100% 50%;	}
+	100%{	background-position: 0 50%;	}
+}
+
+```
+
+```css
 #bruce-banner{
   color: green;
   transition: 10s;
