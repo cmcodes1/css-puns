@@ -589,6 +589,14 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+#undertaker {
+  transition: 1s ease-out;
+  color:black;
+  opacity:0;
+}
+```
+
+```css
 #delorean {
   z-index: -1955;
 }
