@@ -604,6 +604,12 @@ overflow: hidden;
 ```
 
 ```css
+.ariana-grande{
+  display: ponytail;
+}
+```
+
+```css
 #undertaker {
   transition: 1s ease-out;
   color:black;
