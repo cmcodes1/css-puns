@@ -541,6 +541,13 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.eminem {
+  word-spacing: 0;
+  animation-duration: 0.00001s;
+}
+```
+
+```css
 .windows-11{
   border-radius:10px;
 }
