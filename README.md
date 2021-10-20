@@ -3,9 +3,16 @@
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
+#usa + #mexico {
+  border: 1px dashed;
+} 
+```
+
+```css
 .tight-pants {
   align-items: stretch;
 }
+```
 
 ```css
 #who_asked{
@@ -17,6 +24,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 #wife {
    right:100%;
+   margin: 0;
 }
 ```
 
