@@ -568,6 +568,15 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+#crustyCrab {
+  color: red;
+  height: 100px;
+  position: absolute;
+  visibility: hidden;
+  width: 100px;
+}
+
+```css
 .taj-mahal{
   color: white;
   display: flex;
