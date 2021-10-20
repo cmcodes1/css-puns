@@ -42,6 +42,12 @@ overflow: hidden;
 ```
 
 ```css
+#programmer.girlfriend{
+  display: none;
+}
+```
+
+```css
 #who_asked{
   visibility: hidden;
   text-decoration: none;
