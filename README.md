@@ -28,6 +28,14 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.periods
+{
+align-content: center;
+overflow: hidden;
+}
+```
+
+```css
 #who_asked{
   visibility: hidden;
   text-decoration: none;
