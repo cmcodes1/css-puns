@@ -55,6 +55,13 @@ overflow: hidden;
 }
 ```
 
+
+```css
+.china {
+  border-style:solid;
+}
+```
+
 ```css
 #luffy.boa {
   visibility:false;
