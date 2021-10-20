@@ -1,6 +1,32 @@
 # css-puns
 
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
+
+```css
+.religious-upbringing{
+	perspective:inherit;
+}
+```
+
+```css
+#usa + #mexico {
+  border: 1px dashed;
+} 
+```
+
+```css
+.tight-pants {
+  align-items: stretch;
+}
+```
+
+```css
+#hacktober_tshirt{
+ display:flex;
+ justify-content:center;
+ }
+```
+
 ```css
 #who_asked{
   visibility: hidden;
@@ -11,6 +37,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 #wife {
    right:100%;
+   margin: 0;
 }
 ```
 
@@ -18,6 +45,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 .monarch {
   position: inherit;
 }
+```
 
 ```css
 #luffy.boa {
@@ -43,6 +71,27 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
    padding-top: 20%;
    transform: skewY(150deg);
 }
+```
+
+```css
+#what_color_am_i{
+	display: block;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	color: #fff;
+	background: linear-gradient(-45deg, #FF944D, #EE7752, #E73C7E, #23A6D5, #23D5AB, #00B359);
+	background-size: 400%, 400%;
+	position: relative; 
+	animation: animate 10s ease-in-out infinite; 
+}
+
+@keyframes animate {
+	0%{ 	background-position: 0 50%;	}
+	50%{	background-position: 100% 50%;	}
+	100%{	background-position: 0 50%;	}
+}
+
 ```
 
 ```css
@@ -544,5 +593,70 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   transition: 1s ease-out;
   color:black;
   opacity:0;
+}
+```
+
+```css
+#delorean {
+  z-index: -1955;
+}
+```
+
+```css
+.copy-and-paste {
+  cursor: not-allowed;
+}
+```
+
+```css
+#crustyCrab {
+  color: red;
+  height: 100px;
+  position: absolute;
+  visibility: hidden;
+  width: 100px;
+}
+```
+
+```css
+.taj-mahal{
+  color: white;
+  display: flex;
+}
+```
+
+```css
+.light-mode {
+  brightness(200%);
+```
+
+```css
+.religious-upbringing {
+  perspective: inherit;
+}
+```
+
+```css
+.dark-mode {
+  brightness(0%);
+}
+```
+
+```css
+.eminem {
+  word-spacing: 0;
+  animation-duration: 0.00001s;
+}
+```
+
+```css
+.internet-explorer{
+  visibility: none;
+}
+```
+
+```css
+.windows-11 {
+  border-radius:10px;
 }
 ```
