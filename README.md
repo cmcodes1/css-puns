@@ -698,3 +698,8 @@ overflow: hidden;
   border-radius:10px;
 }
 ```
+```css
+.belly {
+  overflow: visible;
+}
+```
