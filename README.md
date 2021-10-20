@@ -576,6 +576,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.copy-and-paste {
+  cursor: not-allowed;
+}
+```
+
+```css
 #crustyCrab {
   color: red;
   height: 100px;
@@ -583,6 +589,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   visibility: hidden;
   width: 100px;
 }
+```
 
 ```css
 .taj-mahal{
