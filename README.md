@@ -541,8 +541,19 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.light-mode {
+  brightness(200%);
+```
+
+```css
 .religious-upbringing {
   perspective: inherit;
+}
+```
+
+```css
+.dark-mode {
+  brightness(0%);
 }
 ```
 
@@ -554,7 +565,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-.windows-11{
+.windows-11 {
   border-radius:10px;
 }
 ```
