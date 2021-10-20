@@ -2,6 +2,12 @@
 
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
+.student:focus{
+  isolation: isolate;
+}
+```
+
+```css
 #who_asked{
   visibility: hidden;
   text-decoration: none;
