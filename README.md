@@ -1,6 +1,12 @@
 # css-puns
 
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
+
+```css
+.tight-pants {
+  align-items: stretch;
+}
+
 ```css
 #who_asked{
   visibility: hidden;
