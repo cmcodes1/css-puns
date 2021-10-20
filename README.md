@@ -541,6 +541,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.religious-upbringing {
+  perspective: inherit;
+}
+```
+
+```css
 .eminem {
   word-spacing: 0;
   animation-duration: 0.00001s;
