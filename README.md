@@ -36,6 +36,12 @@ overflow: hidden;
 ```
 
 ```css
+.student:focus{
+  isolation: isolate;
+}
+```
+
+```css
 #who_asked{
   visibility: hidden;
   text-decoration: none;
