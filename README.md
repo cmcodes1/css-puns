@@ -3,6 +3,13 @@
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
+.polluted-air{
+      visibility: none;
+      background-color: black;
+}
+```
+
+```css
 .religious-upbringing{
 	perspective:inherit;
 }
