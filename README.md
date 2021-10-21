@@ -698,3 +698,11 @@ overflow: hidden;
   border-radius:10px;
 }
 ```
+
+```css
+.wife {
+  right:100%;
+  position: absolute;
+  margin: 0;
+}
+```
