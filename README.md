@@ -700,8 +700,9 @@ overflow: hidden;
 ```
 
 ```css
-.push-up-bra {
-  margin-top: -25%;
-  overglow: visible;
+.skywalks {
+  opacity: 0%;
+  border: 0%;
+  content: "";
 }
 ```
