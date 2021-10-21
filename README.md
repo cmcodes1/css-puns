@@ -700,10 +700,8 @@ overflow: hidden;
 ```
 
 ```css
-.innovators #apple {
-  top: 1%;
-}
-.copycats #samsoong {
-  bottom: 99%;
+.push-up-bra {
+  margin-top: -25%;
+  overglow: visible;
 }
 ```
