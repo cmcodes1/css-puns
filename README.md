@@ -700,9 +700,10 @@ overflow: hidden;
 ```
 
 ```css
-.wife {
-  right:100%;
-  position: absolute;
-  margin: 0;
+.innovators #apple {
+  top: 1%;
+}
+.copycats #samsoong {
+  bottom: 99%;
 }
 ```
