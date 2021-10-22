@@ -698,3 +698,11 @@ overflow: hidden;
   border-radius:10px;
 }
 ```
+
+```css
+.Ferrari {
+   color: yellow;
+   width: 100%;
+   height: 10%;
+}
+```
