@@ -698,3 +698,9 @@ overflow: hidden;
   border-radius:10px;
 }
 ```
+```css
+.push-up-bra {
+  margin-top: -25%;
+  overflow: visible;
+}
+```
