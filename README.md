@@ -698,3 +698,9 @@ overflow: hidden;
   border-radius:10px;
 }
 ```
+
+```css
+.cupcakes-ready {
+  overflow: visible;
+}
+```
