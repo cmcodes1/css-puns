@@ -4,8 +4,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 .your-fat-darling:hover{
-transform:scaleX(5) rotateZ(45deg);
-transition: transform 1s ease-in;
+transform:scaleX(100);
 }
 ```
 
