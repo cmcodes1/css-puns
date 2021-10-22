@@ -698,3 +698,9 @@ overflow: hidden;
   border-radius:10px;
 }
 ```
+
+```
+.money {
+display: none;
+}
+```
