@@ -698,3 +698,16 @@ overflow: hidden;
   border-radius:10px;
 }
 ```
+
+```css
+.democrat {
+  float: left;
+}
+```
+
+
+```css
+.republican {
+  float: right;
+}
+```
