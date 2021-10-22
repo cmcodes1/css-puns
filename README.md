@@ -698,3 +698,15 @@ overflow: hidden;
   border-radius:10px;
 }
 ```
+
+```css
+#fiona {
+  color: white;
+  transition: color 10s;
+}
+#fiona.sunset {
+  color: green;
+}
+```
+
+
