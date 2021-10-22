@@ -3,6 +3,13 @@
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
+.mosquito-net {
+display:grid;
+}
+```
+
+
+```css
 .your-fat-darling:hover{
 transform:scaleX(100);
 }
