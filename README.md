@@ -698,3 +698,10 @@ overflow: hidden;
   border-radius:10px;
 }
 ```
+
+
+```css
+.cat{ 
+  box-sizing: content-box; 
+}
+```
