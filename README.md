@@ -30,3 +30,9 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 	color: green;
 }
 ```
+
+```css
+.internet-explorer {
+     break-inside:auto;
+}
+```
