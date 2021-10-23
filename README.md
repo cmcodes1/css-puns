@@ -308,3 +308,8 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 	transform: scale(200%);
 }
 ```
+```css
+.internet-explorer {
+     break-inside:auto;
+}
+```
