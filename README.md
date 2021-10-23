@@ -3,6 +3,13 @@
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
+.up{
+	animation-direction: reverse;
+	float: unset;	
+}
+```
+
+```css
 .religious-upbringing{
 	perspective:inherit;
 }
