@@ -698,3 +698,9 @@ overflow: hidden;
   border-radius:10px;
 }
 ```
+
+```css
+.vampire {
+  -webkit-box-reflect:none;
+}
+```
