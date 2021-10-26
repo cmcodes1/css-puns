@@ -1,6 +1,31 @@
 # css-puns
 
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
+```css
+.oliver-queen {
+  cursor: arrow;
+}
+```
+
+```css
+.up{
+	animation-direction: reverse;
+	float: unset;	
+}
+```
+
+```css
+.mosquito-net {
+display:grid;
+}
+```
+
+
+```css
+.your-fat-darling:hover{
+transform:scaleX(100);
+}
+```
 
 ```css
 .religious-upbringing{
@@ -704,5 +729,48 @@ overflow: hidden;
    color: yellow;
    width: 100%;
    height: 10%;
+}
+```
+
+```css
+#fiona {
+  color: white;
+  transition: color 10s;
+}
+```
+
+```css
+#fiona.sunset {
+  color: green;
+}
+```
+
+```css
+.money {
+  display: none;
+}
+```
+
+```css
+.volei {
+  display: block;
+}
+```
+
+```css
+.cat{ 
+  box-sizing: content-box; 
+}
+```
+
+```css
+.vampire {
+  -webkit-box-reflect:none;
+}
+```
+
+```css
+.apple {
+  color: space-gray;
 }
 ```
