@@ -712,6 +712,12 @@ overflow: hidden;
 ```
 
 ```css
+.money {
+  display: none;
+}
+```
+
+```css
 .volei {
   display: block;
 }
