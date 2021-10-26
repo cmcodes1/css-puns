@@ -725,6 +725,12 @@ overflow: hidden;
 ```
 
 ```css
+.cupcakes-ready {
+  overflow: visible;
+}
+```
+
+```css
 .einstein {
   position: relative;
 }
