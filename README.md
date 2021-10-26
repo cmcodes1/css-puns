@@ -40,6 +40,13 @@ transform:scaleX(100);
 ```
 
 ```css
+.polluted-air{
+      visibility: none;
+      background-color: black;
+}
+```
+
+```css
 .religious-upbringing{
 	perspective:inherit;
 }
