@@ -725,6 +725,22 @@ overflow: hidden;
 ```
 
 ```css
+.label{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100px;
+    position: relative;
+    cursor: pointer;
+    text-indent: -9999px;
+    width: 55px;
+    height: 30px;
+    background: var(--btn);
+ }
+ ```
+    
+ ```css
 .skywalks {
   opacity: 0%;
   border: 0%;
