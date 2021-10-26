@@ -869,3 +869,9 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   vertical-align: top;
 }
 ```
+
+```css
+.country-music-concert {
+  white-space: nowrap;
+}
+```
