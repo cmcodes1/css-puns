@@ -725,6 +725,14 @@ overflow: hidden;
 ```
 
 ```css
+.Ferrari {
+   color: yellow;
+   width: 100%;
+   height: 10%;
+}
+```
+
+```css
 #fiona {
   color: white;
   transition: color 10s;
