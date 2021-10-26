@@ -725,6 +725,13 @@ overflow: hidden;
 ```
 
 ```css
+.push-up-bra {
+  margin-top: -25%;
+  overflow: visible;
+}
+```
+
+```css
 .Ferrari {
    color: yellow;
    width: 100%;
