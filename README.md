@@ -725,6 +725,18 @@ overflow: hidden;
 ```
 
 ```css
+.democrat {
+  float: left;
+}
+```
+
+```css
+.republican {
+  float: right;
+}
+```
+
+```css
 .cupcakes-ready {
   overflow: visible;
 }
