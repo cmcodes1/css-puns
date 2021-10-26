@@ -700,6 +700,12 @@ overflow: hidden;
 ```
 
 ```css
+.vampire {
+  -webkit-box-reflect:none;
+}
+```
+
+```css
 .apple {
   color: space-gray;
 }
