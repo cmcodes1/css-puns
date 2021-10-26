@@ -725,6 +725,14 @@ overflow: hidden;
 ```
 
 ```css
+.skywalks {
+  opacity: 0%;
+  border: 0%;
+  content: "";
+}
+```
+
+```css
 .democrat {
   float: left;
 }
