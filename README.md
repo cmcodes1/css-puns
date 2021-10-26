@@ -28,6 +28,12 @@ transform:scaleX(100);
 ```
 
 ```css
+.belly {
+	overflow: visible;
+}
+```
+
+```css
 .religious-upbringing{
 	perspective:inherit;
 }
