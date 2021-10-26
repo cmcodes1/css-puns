@@ -712,6 +712,19 @@ overflow: hidden;
 ```
 
 ```css
+#fiona {
+  color: white;
+  transition: color 10s;
+}
+```
+
+```css
+#fiona.sunset {
+  color: green;
+}
+```
+
+```css
 .money {
   display: none;
 }
