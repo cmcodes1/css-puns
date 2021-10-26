@@ -712,6 +712,12 @@ overflow: hidden;
 ```
 
 ```css
+.volei {
+  display: block;
+}
+```
+
+```css
 .cat{ 
   box-sizing: content-box; 
 }
