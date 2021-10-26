@@ -704,3 +704,9 @@ overflow: hidden;
   -webkit-box-reflect:none;
 }
 ```
+
+```css
+.apple {
+  color: space-gray;
+}
+```
