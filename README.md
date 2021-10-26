@@ -731,6 +731,12 @@ overflow: hidden;
 ```
 
 ```css
+.belly {
+  overflow: visible;
+}
+```
+
+```css
 .label{
     margin: 0 auto;
     display: flex;
