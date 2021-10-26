@@ -712,6 +712,12 @@ overflow: hidden;
 ```
 
 ```css
+.cat{ 
+  box-sizing: content-box; 
+}
+```
+
+```css
 .vampire {
   -webkit-box-reflect:none;
 }
