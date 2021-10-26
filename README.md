@@ -34,6 +34,12 @@ transform:scaleX(100);
 ```
 
 ```css
+.stammer {
+	animation-delay: 1s;
+}
+```
+
+```css
 .religious-upbringing{
 	perspective:inherit;
 }
