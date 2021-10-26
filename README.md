@@ -725,6 +725,12 @@ overflow: hidden;
 ```
 
 ```css
+.einstein {
+  position: relative;
+}
+```
+
+```css
 .push-up-bra {
   margin-top: -25%;
   overflow: visible;
