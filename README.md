@@ -899,3 +899,8 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   opacity:0;
 }
 ```
+```css
+.boat {
+  float:right;
+}
+```
