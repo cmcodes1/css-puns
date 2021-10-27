@@ -1,6 +1,7 @@
 # css-puns
 
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
+
 ```css
 .oliver-queen {
   cursor: arrow;
@@ -8,54 +9,53 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-.up{
-	animation-direction: reverse;
-	float: unset;	
+.up {
+  animation-direction: reverse;
+  float: unset;
 }
 ```
 
 ```css
 .mosquito-net {
-display:grid;
+  display: grid;
 }
 ```
 
-
 ```css
-.your-fat-darling:hover{
-transform:scaleX(100);
+.your-fat-darling:hover {
+  transform: scaleX(100);
 }
 ```
 
 ```css
 .belly {
-	overflow: visible;
+  overflow: visible;
 }
 ```
 
 ```css
 .stammer {
-	animation-delay: 1s;
+  animation-delay: 1s;
 }
 ```
 
 ```css
-.polluted-air{
-      visibility: none;
-      background-color: black;
+.polluted-air {
+  visibility: none;
+  background-color: black;
 }
 ```
 
 ```css
-.religious-upbringing{
-	perspective:inherit;
+.religious-upbringing {
+  perspective: inherit;
 }
 ```
 
 ```css
 #usa + #mexico {
   border: 1px dashed;
-} 
+}
 ```
 
 ```css
@@ -65,43 +65,42 @@ transform:scaleX(100);
 ```
 
 ```css
-#hacktober_tshirt{
- display:flex;
- justify-content:center;
- }
-```
-
-```css
-.periods
-{
-align-content: center;
-overflow: hidden;
+#hacktober_tshirt {
+  display: flex;
+  justify-content: center;
 }
 ```
 
 ```css
-.student:focus{
+.periods {
+  align-content: center;
+  overflow: hidden;
+}
+```
+
+```css
+.student:focus {
   isolation: isolate;
 }
 ```
 
 ```css
-#programmer.girlfriend{
+#programmer.girlfriend {
   display: none;
 }
 ```
 
 ```css
-#who_asked{
+#who_asked {
   visibility: hidden;
   text-decoration: none;
- }
+}
 ```
 
 ```css
 #wife {
-   right:100%;
-   margin: 0;
+  right: 100%;
+  margin: 0;
 }
 ```
 
@@ -111,22 +110,21 @@ overflow: hidden;
 }
 ```
 
-
 ```css
 .china {
-  border-style:solid;
+  border-style: solid;
 }
 ```
 
 ```css
 #luffy.boa {
-  visibility:false;
+  visibility: false;
 }
 ```
 
 ```css
-#luffy.meat{
-   visibility:true;
+#luffy.meat {
+  visibility: true;
 }
 ```
 
@@ -138,35 +136,48 @@ overflow: hidden;
 
 ```css
 #me .sleep {
-   position: relative;
-   padding-top: 20%;
-   transform: skewY(150deg);
+  position: relative;
+  padding-top: 20%;
+  transform: skewY(150deg);
 }
 ```
 
 ```css
-#what_color_am_i{
-	display: block;
-	margin: auto;
-	width: 100%;
-	height: 100vh;
-	color: #fff;
-	background: linear-gradient(-45deg, #FF944D, #EE7752, #E73C7E, #23A6D5, #23D5AB, #00B359);
-	background-size: 400%, 400%;
-	position: relative; 
-	animation: animate 10s ease-in-out infinite; 
+#what_color_am_i {
+  display: block;
+  margin: auto;
+  width: 100%;
+  height: 100vh;
+  color: #fff;
+  background: linear-gradient(
+    -45deg,
+    #ff944d,
+    #ee7752,
+    #e73c7e,
+    #23a6d5,
+    #23d5ab,
+    #00b359
+  );
+  background-size: 400%, 400%;
+  position: relative;
+  animation: animate 10s ease-in-out infinite;
 }
 
 @keyframes animate {
-	0%{ 	background-position: 0 50%;	}
-	50%{	background-position: 100% 50%;	}
-	100%{	background-position: 0 50%;	}
+  0% {
+    background-position: 0 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0 50%;
+  }
 }
-
 ```
 
 ```css
-#bruce-banner{
+#bruce-banner {
   color: green;
   transition: 10s;
 }
@@ -174,7 +185,7 @@ overflow: hidden;
 
 ```css
 #infinity-edge-pools {
-   overflow: hidden;
+  overflow: hidden;
 }
 ```
 
@@ -192,7 +203,7 @@ overflow: hidden;
 
 ```css
 #redmi-mobile-ads {
-  display:block;
+  display: block;
   transform: scale(100%);
   filter: blur(20px);
 }
@@ -202,7 +213,7 @@ overflow: hidden;
 .ninja {
   visibility: hidden;
   color: black;
-  animation-duration: 0.00001s
+  animation-duration: 0.00001s;
 }
 ```
 
@@ -563,7 +574,7 @@ overflow: hidden;
 
 ```css
 .internet-explorer {
-     break-inside:auto;
+  break-inside: auto;
 }
 ```
 
@@ -593,16 +604,15 @@ overflow: hidden;
 }
 ```
 
-```css
+````css
 #prison .escape {
   empty-cells: show;
 }
 
-```css
-#tower-of-pisa {
-   font-style: italic;
+```css #tower-of-pisa {
+  font-style: italic;
 }
-```
+````
 
 ```css
 .court > .advocate {
@@ -612,19 +622,19 @@ overflow: hidden;
 
 ```css
 .boku-no-pico {
-   display: none;
+  display: none;
 }
 ```
 
 ```css
 #europe {
-	border: none;
+  border: none;
 }
 ```
 
 ```css
 #big-bang::before {
-   content: "";
+  content: "";
 }
 ```
 
@@ -659,22 +669,21 @@ overflow: hidden;
 }
 ```
 
-```css
+````css
 .uncle {
   position: relative;
 }
 
-```css
-.ariana-grande{
+```css .ariana-grande {
   display: ponytail;
 }
-```
+````
 
 ```css
 #undertaker {
   transition: 1s ease-out;
-  color:black;
-  opacity:0;
+  color: black;
+  opacity: 0;
 }
 ```
 
@@ -701,7 +710,7 @@ overflow: hidden;
 ```
 
 ```css
-.taj-mahal{
+.taj-mahal {
   color: white;
   display: flex;
 }
@@ -732,14 +741,14 @@ overflow: hidden;
 ```
 
 ```css
-.internet-explorer{
+.internet-explorer {
   visibility: none;
 }
 ```
 
 ```css
 .windows-11 {
-  border-radius:10px;
+  border-radius: 10px;
 }
 ```
 
@@ -750,22 +759,22 @@ overflow: hidden;
 ```
 
 ```css
-.label{
-    margin: 0 auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 100px;
-    position: relative;
-    cursor: pointer;
-    text-indent: -9999px;
-    width: 55px;
-    height: 30px;
-    background: var(--btn);
- }
- ```
-    
- ```css
+.label {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100px;
+  position: relative;
+  cursor: pointer;
+  text-indent: -9999px;
+  width: 55px;
+  height: 30px;
+  background: var(--btn);
+}
+```
+
+```css
 .skywalks {
   opacity: 0%;
   border: 0%;
@@ -806,9 +815,9 @@ overflow: hidden;
 
 ```css
 .Ferrari {
-   color: yellow;
-   width: 100%;
-   height: 10%;
+  color: yellow;
+  width: 100%;
+  height: 10%;
 }
 ```
 
@@ -838,14 +847,14 @@ overflow: hidden;
 ```
 
 ```css
-.cat{ 
-  box-sizing: content-box; 
+.cat {
+  box-sizing: content-box;
 }
 ```
 
 ```css
 .vampire {
-  -webkit-box-reflect:none;
+  -webkit-box-reflect: none;
 }
 ```
 
@@ -862,5 +871,26 @@ overflow: hidden;
 
 .working-class{
   bottom:1%
+}
+```
+
+```css
+.thumbs {
+  vertical-align: top;
+}
+```
+
+```css
+.country-music-concert {
+  white-space: nowrap;
+}
+```
+
+```css
+.center-div-bug {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
 }
 ```
