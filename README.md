@@ -854,3 +854,13 @@ overflow: hidden;
   color: space-gray;
 }
 ```
+
+```css
+.center-div-bug {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  margin: 0 auto;
+}
+```
