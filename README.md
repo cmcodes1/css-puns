@@ -875,3 +875,13 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   white-space: nowrap;
 }
 ```
+
+```css
+.center-div-bug {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  margin: 0 auto;
+}
+```
