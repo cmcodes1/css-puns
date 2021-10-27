@@ -894,3 +894,9 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   margin: 0 auto;
 }
 ```
+
+```css
+#usa[data-president~=Trump] + #mexico {
+  border: 30ft solid;
+}
+```
