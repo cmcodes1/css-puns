@@ -854,3 +854,13 @@ overflow: hidden;
   color: space-gray;
 }
 ```
+
+```css
+.rich-people{
+  top:1%
+}
+
+.working-class{
+  bottom:1%
+}
+```
