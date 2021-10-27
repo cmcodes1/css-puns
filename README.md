@@ -865,6 +865,16 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.rich-people{
+  top:1%
+}
+
+.working-class{
+  bottom:1%
+}
+```
+
+```css
 .thumbs {
   vertical-align: top;
 }
@@ -881,7 +891,6 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   display: flex;
   justify-content: center;
   align-items: center;
-  
   margin: 0 auto;
 }
 ```
