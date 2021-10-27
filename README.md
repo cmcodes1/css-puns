@@ -896,7 +896,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-#usa[data-president~=Trump] + #mexico {
-  border: 30ft solid;
+#europe .country:not(.uk) {
+  border: none;
 }
 ```
