@@ -896,6 +896,18 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.water {
+  opacity:0;
+}
+```
+
+```css
+.boat {
+  float:right;
+}
+```
+
+```css
 .optimus-prime {
   transform: initial;
 }
