@@ -196,6 +196,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.bodybuilder + .protein {
+  flex-grow: 1;
+}
+```
+
+```css
 #titanic {
   float: none;
 }
@@ -244,6 +250,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 #wife {
   right: 100%;
   margin: 0%;
+}
+```
+
+```css
+#over-the-fence .grass {
+  color: green;
 }
 ```
 
@@ -741,6 +753,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+#beyonce .everything-you-own {
+  margin: 0 auto 0 0;
+}
+```
+
+```css
 .internet-explorer {
   visibility: none;
 }
@@ -865,12 +883,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-.rich-people{
-  top:1%
+.rich-people {
+  top: 1%;
 }
 
-.working-class{
-  bottom:1%
+.working-class {
+  bottom: 1%;
 }
 ```
 
@@ -898,5 +916,56 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 #periodic {
   display: table;
+}
+```
+
+```css
+.water {
+  opacity:0;
+}
+```
+
+```css
+.boat {
+  float:right;
+}
+```
+
+```css
+.optimus-prime {
+  transform: initial;
+}
+```
+
+```css
+.obese {
+  width: 200%;
+  overflow: visible;
+}
+```
+
+```css
+.china {
+  border-style: solid;
+}
+```
+
+```css
+.illuminati {
+  position: absolute;
+  visibility: hidden;
+}
+```
+
+```css
+.rip {
+  bottom: -6912px;
+  /* 6912px = 6 feet; */
+}
+```
+
+```css
+.god {
+  position: fixed;
 }
 ```
