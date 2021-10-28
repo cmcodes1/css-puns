@@ -196,6 +196,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.bodybuilder + .protein {
+  flex-grow: 1;
+}
+```
+
+```css
 #titanic {
   float: none;
 }
@@ -244,6 +250,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 #wife {
   right: 100%;
   margin: 0%;
+}
+```
+
+```css
+#over-the-fence .grass {
+  color: green;
 }
 ```
 
@@ -737,6 +749,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 .eminem {
   word-spacing: 0;
   animation-duration: 0.00001s;
+}
+```
+
+```css
+#beyonce .everything-you-own {
+  margin: 0 auto 0 0;
 }
 ```
 
