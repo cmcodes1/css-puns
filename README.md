@@ -686,7 +686,8 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   position: relative;
 }
 
-```css .ariana-grande {
+```css
+.ariana-grande {
   display: ponytail;
 }
 ````
