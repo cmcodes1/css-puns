@@ -900,3 +900,30 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   transform: initial;
 }
 ```
+
+```css
+.obese {
+  width: 200%;
+  overflow: visible;
+}
+```
+
+```css
+.china {
+  border-style: solid;
+}
+```
+
+```css
+.illuminati {
+  position: absolute;
+  visibility: hidden;
+}
+```
+
+```css
+.rip {
+  bottom: -6912px;
+  /* 6912px = 6 feet; */
+}
+```
