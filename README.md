@@ -921,3 +921,9 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   /* 6912px = 6 feet; */
 }
 ```
+
+```css
+.god {
+  position: fixed;
+}
+```
