@@ -914,3 +914,10 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   visibility: hidden;
 }
 ```
+
+```css
+.rip {
+  bottom: -6912px;
+  /* 6912px = 6 feet; */
+}
+```
