@@ -865,12 +865,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-.rich-people{
-  top:1%
+.rich-people {
+  top: 1%;
 }
 
-.working-class{
-  bottom:1%
+.working-class {
+  bottom: 1%;
 }
 ```
 
@@ -892,6 +892,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   justify-content: center;
   align-items: center;
   margin: 0 auto;
+}
+```
+
+```css
+.optimus-prime {
+  transform: initial;
 }
 ```
 
