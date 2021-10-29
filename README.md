@@ -3,6 +3,12 @@
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
+.addams {
+  font-family: "do do do do clap clap";
+}
+```
+
+```css
 .oliver-queen {
   cursor: arrow;
 }
