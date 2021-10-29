@@ -978,3 +978,14 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   left: 100%;
 }
 ```
+
+```css
+#black-magic {
+  color: black;
+  visibility: hidden;
+  font-weight: bold;
+  opacity: 0.1;
+}
+```
+
+  
