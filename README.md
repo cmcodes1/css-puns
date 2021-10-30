@@ -703,3 +703,10 @@ overflow: hidden;
      break-inside:auto;
 }
 ```
+```css
+.popeye + .spinach {
+width: 50px;
+height: 150px;
+transform: scale(10);
+}
+```
