@@ -3,6 +3,13 @@
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
+#johncena {
+  display:none;
+} 
+```
+
+
+```css
 #usa + #mexico {
   border: 1px dashed;
 } 
