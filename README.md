@@ -977,4 +977,10 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 .liberal {
   left: 100%;
 }
-```
+```css
+.puns :: before {
+content:  " ";
+}
+.puns :: after {
+content:  " Stomach pain, Smile, Laugh";
+}
