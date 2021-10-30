@@ -705,8 +705,8 @@ overflow: hidden;
 ```
 ```css
 .popeye + .spinach {
-width: 50px;
-height: 150px;
+width: 40px;
+height: 140px;
 transform: scale(10);
 }
 ```
