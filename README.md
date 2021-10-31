@@ -978,3 +978,11 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   left: 100%;
 }
 ```
+```css
+.rich-people {
+  top:1%;
+}
+.working-class{
+  bottom: 99%;
+}
+```
