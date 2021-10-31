@@ -3,6 +3,12 @@
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
+.wealthy {
+  top: 1%;
+}
+```
+
+```css
 .teeth {
   gap: 10px;
 }
