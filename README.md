@@ -9,8 +9,26 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+#me .lookingGood{
+  backface-visibility: hidden;
+}
+```
+
+```css
 .teeth {
   gap: 10px;
+}
+```
+
+```css
+.addams {
+  font-family: "do do do do clap clap";
+}
+```
+
+```css
+.bond {
+    color: #007;
 }
 ```
 
@@ -985,8 +1003,21 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   position: fixed;
 }
 ```
+
 ```css
 .liberal {
   left: 100%;
+}
+```
+
+```css
+.new-zealand {
+  border: none;
+}
+```
+
+```css
+#guy-lafleur {
+  float: right;
 }
 ```
