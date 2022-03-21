@@ -678,10 +678,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 #prison .escape {
   empty-cells: show;
 }
-```
-
-```css
-#tower-of-pisa {
+``` ```css #tower-of-pisa {
   font-style: italic;
 }
 ````
@@ -745,10 +742,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 .uncle {
   position: relative;
 }
-```
-
-```css
-.ariana-grande {
+``` ```css .ariana-grande {
   display: ponytail;
 }
 ````
@@ -997,13 +991,13 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 .water {
-  opacity:0;
+  opacity: 0;
 }
 ```
 
 ```css
 .boat {
-  float:right;
+  float: right;
 }
 ```
 
@@ -1049,6 +1043,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 .liberal {
   left: 100%;
+}
+```
+
+```css
+.sunglass {
+  opacity: 0.5;
 }
 ```
 
