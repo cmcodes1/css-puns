@@ -866,6 +866,20 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.internet-explorer {
+     break-inside:auto;
+}
+```
+
+```css
+.popeye + .spinach {
+  width: 40px;
+  height: 140px;
+  transform: scale(10);
+}
+```
+
+```css
 .push-up-bra {
   margin-top: -25%;
   overflow: visible;
