@@ -3,6 +3,24 @@
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
+#me .lookingGood{
+  backface-visibility: hidden;
+}
+```
+
+```css
+.addams {
+  font-family: "do do do do clap clap";
+}
+```
+
+```css
+.bond {
+    color: #007;
+}
+```
+
+```css
 .oliver-queen {
   cursor: arrow;
 }
@@ -973,6 +991,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   position: fixed;
 }
 ```
+
 ```css
 .liberal {
   left: 100%;
@@ -982,5 +1001,11 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 .new-zealand {
   border: none;
+}
+```
+
+```css
+#guy-lafleur {
+  float: right;
 }
 ```
