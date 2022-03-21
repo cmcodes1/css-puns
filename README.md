@@ -999,6 +999,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.new-zealand {
+  border: none;
+}
+```
+
+```css
 #guy-lafleur {
   float: right;
 }
