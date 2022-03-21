@@ -54,6 +54,13 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.jamba-juice {
+  mix-blend-mode: normal;
+  color: green;
+}
+```
+
+```css
 .oliver-queen {
   cursor: arrow;
 }
