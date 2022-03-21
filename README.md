@@ -1018,6 +1018,18 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.rich-people {
+  top:1%;
+}
+```
+
+```css
+.working-class{
+  bottom: 99%;
+}
+```
+
+```css
 .new-zealand {
   border: none;
 }
