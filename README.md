@@ -3,6 +3,13 @@
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
+.middle-finger {
+  display:flex;
+  justify-content:center;
+}
+```
+
+```css
 .wealthy {
   top: 1%;
 }
