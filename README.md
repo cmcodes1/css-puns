@@ -1046,6 +1046,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 }
 ```
 
+```css 
+.modest {
+    flex: 0%;
+  }
+```
+
 ```css
 .puns :: before {
   content:  " ";
