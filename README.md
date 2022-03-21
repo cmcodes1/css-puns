@@ -9,19 +9,128 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-.monarch {
-  position: inherit;
-}
-
-```css
-#luffy.boa {
-  visibility:false;
+.oliver-queen {
+  cursor: arrow;
 }
 ```
 
 ```css
-#luffy.meat{
-   visibility:true;
+.up {
+  animation-direction: reverse;
+  float: unset;
+}
+```
+
+```css
+.mosquito-net {
+  display: grid;
+}
+```
+
+```css
+.your-fat-darling:hover {
+  transform: scaleX(100);
+}
+```
+
+```css
+.belly {
+  overflow: visible;
+}
+```
+
+```css
+.stammer {
+  animation-delay: 1s;
+}
+```
+
+```css
+.polluted-air {
+  visibility: none;
+  background-color: black;
+}
+```
+
+```css
+.religious-upbringing {
+  perspective: inherit;
+}
+```
+
+```css
+#usa + #mexico {
+  border: 1px dashed;
+}
+```
+
+```css
+.tight-pants {
+  align-items: stretch;
+}
+```
+
+```css
+#hacktober_tshirt {
+  display: flex;
+  justify-content: center;
+}
+```
+
+```css
+.periods {
+  align-content: center;
+  overflow: hidden;
+}
+```
+
+```css
+.student:focus {
+  isolation: isolate;
+}
+```
+
+```css
+#programmer.girlfriend {
+  display: none;
+}
+```
+
+```css
+#who_asked {
+  visibility: hidden;
+  text-decoration: none;
+}
+```
+
+```css
+#wife {
+  right: 100%;
+  margin: 0;
+}
+```
+
+```css
+.monarch {
+  position: inherit;
+}
+```
+
+```css
+.china {
+  border-style: solid;
+}
+```
+
+```css
+#luffy.boa {
+  visibility: false;
+}
+```
+
+```css
+#luffy.meat {
+  visibility: true;
 }
 ```
 
@@ -33,22 +142,68 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 #me .sleep {
-   position: relative;
-   padding-top: 20%;
-   transform: skewY(150deg);
+  position: relative;
+  padding-top: 20%;
+  transform: skewY(150deg);
 }
 ```
 
 ```css
-#bruce-banner{
+#what_color_am_i {
+  display: block;
+  margin: auto;
+  width: 100%;
+  height: 100vh;
+  color: #fff;
+  background: linear-gradient(
+    -45deg,
+    #ff944d,
+    #ee7752,
+    #e73c7e,
+    #23a6d5,
+    #23d5ab,
+    #00b359
+  );
+  background-size: 400%, 400%;
+  position: relative;
+  animation: animate 10s ease-in-out infinite;
+}
+
+@keyframes animate {
+  0% {
+    background-position: 0 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0 50%;
+  }
+}
+```
+
+```css
+#bruce-banner {
   color: green;
   transition: 10s;
 }
 ```
 
 ```css
+#infinity-edge-pools {
+  overflow: hidden;
+}
+```
+
+```css
 #bodybuilder {
   display: flex;
+}
+```
+
+```css
+.bodybuilder + .protein {
+  flex-grow: 1;
 }
 ```
 
@@ -60,7 +215,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 #redmi-mobile-ads {
-  display:block;
+  display: block;
   transform: scale(100%);
   filter: blur(20px);
 }
@@ -70,6 +225,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 .ninja {
   visibility: hidden;
   color: black;
+  animation-duration: 0.00001s;
 }
 ```
 
@@ -100,6 +256,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 #wife {
   right: 100%;
   margin: 0%;
+}
+```
+
+```css
+#over-the-fence .grass {
+  color: green;
 }
 ```
 
@@ -429,14 +591,70 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.internet-explorer {
+  break-inside: auto;
+}
+```
+
+```css
+@media print {
+  .news {
+    content: open-quote;
+  }
+}
+```
+
+```css
+#bermuda-triangle {
+  display: none;
+}
+```
+
+```css
+.lender + .borrower {
+  visibility: hidden;
+}
+```
+
+```css
+#monarch {
+  position: inherit;
+}
+```
+
+````css
+#prison .escape {
+  empty-cells: show;
+}
+```
+
+```css
+#tower-of-pisa {
+  font-style: italic;
+}
+````
+
+```css
+.court > .advocate {
+  justify-content: inherit;
+}
+```
+
+```css
+.boku-no-pico {
+  display: none;
+}
+```
+
+```css
 #europe {
-	border: none;
+  border: none;
 }
 ```
 
 ```css
 #big-bang::before {
-   content: "";
+  content: "";
 }
 ```
 
@@ -444,5 +662,326 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 .optimism {
   colour: rose;
   opacity: 0.5;
+}
+```
+
+```css
+#move-forward {
+  colour: green;
+}
+```
+
+```css
+.john-cena {
+  visibility: none;
+}
+```
+
+```css
+#stop {
+  colour: red;
+}
+```
+
+```css
+.government {
+  transition: all 4yr ease-out;
+}
+```
+
+````css
+.uncle {
+  position: relative;
+}
+```
+
+```css
+.ariana-grande {
+  display: ponytail;
+}
+````
+
+```css
+#undertaker {
+  transition: 1s ease-out;
+  color: black;
+  opacity: 0;
+}
+```
+
+```css
+#delorean {
+  z-index: -1955;
+}
+```
+
+```css
+.copy-and-paste {
+  cursor: not-allowed;
+}
+```
+
+```css
+#crustyCrab {
+  color: red;
+  height: 100px;
+  position: absolute;
+  visibility: hidden;
+  width: 100px;
+}
+```
+
+```css
+.taj-mahal {
+  color: white;
+  display: flex;
+}
+```
+
+```css
+.light-mode {
+  brightness(200%);
+```
+
+```css
+.religious-upbringing {
+  perspective: inherit;
+}
+```
+
+```css
+.dark-mode {
+  brightness(0%);
+}
+```
+
+```css
+.eminem {
+  word-spacing: 0;
+  animation-duration: 0.00001s;
+}
+```
+
+```css
+#beyonce .everything-you-own {
+  margin: 0 auto 0 0;
+}
+```
+
+```css
+.internet-explorer {
+  visibility: none;
+}
+```
+
+```css
+.windows-11 {
+  border-radius: 10px;
+}
+```
+
+```css
+.belly {
+  overflow: visible;
+}
+```
+
+```css
+.label {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100px;
+  position: relative;
+  cursor: pointer;
+  text-indent: -9999px;
+  width: 55px;
+  height: 30px;
+  background: var(--btn);
+}
+```
+
+```css
+.skywalks {
+  opacity: 0%;
+  border: 0%;
+  content: "";
+}
+```
+
+```css
+.democrat {
+  float: left;
+}
+```
+
+```css
+.republican {
+  float: right;
+}
+```
+
+```css
+.cupcakes-ready {
+  overflow: visible;
+}
+```
+
+```css
+.einstein {
+  position: relative;
+}
+```
+
+```css
+.push-up-bra {
+  margin-top: -25%;
+  overflow: visible;
+}
+```
+
+```css
+.Ferrari {
+  color: yellow;
+  width: 100%;
+  height: 10%;
+}
+```
+
+```css
+#fiona {
+  color: white;
+  transition: color 10s;
+}
+```
+
+```css
+#fiona.sunset {
+  color: green;
+}
+```
+
+```css
+.money {
+  display: none;
+}
+```
+
+```css
+.volei {
+  display: block;
+}
+```
+
+```css
+.cat {
+  box-sizing: content-box;
+}
+```
+
+```css
+.vampire {
+  -webkit-box-reflect: none;
+}
+```
+
+```css
+.apple {
+  color: space-gray;
+}
+```
+
+```css
+.rich-people {
+  top: 1%;
+}
+
+.working-class {
+  bottom: 1%;
+}
+```
+
+```css
+.thumbs {
+  vertical-align: top;
+}
+```
+
+```css
+.country-music-concert {
+  white-space: nowrap;
+}
+```
+
+```css
+.center-div-bug {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+```
+
+```css
+#periodic {
+  display: table;
+}
+```
+
+```css
+.water {
+  opacity:0;
+}
+```
+
+```css
+.boat {
+  float:right;
+}
+```
+
+```css
+.optimus-prime {
+  transform: initial;
+}
+```
+
+```css
+.obese {
+  width: 200%;
+  overflow: visible;
+}
+```
+
+```css
+.china {
+  border-style: solid;
+}
+```
+
+```css
+.illuminati {
+  position: absolute;
+  visibility: hidden;
+}
+```
+
+```css
+.rip {
+  bottom: -6912px;
+  /* 6912px = 6 feet; */
+}
+```
+
+```css
+.god {
+  position: fixed;
+}
+```
+
+```css
+.liberal {
+  left: 100%;
 }
 ```
