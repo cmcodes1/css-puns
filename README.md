@@ -3,6 +3,43 @@
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
+.middle-finger {
+  display:flex;
+  justify-content:center;
+}
+```
+
+```css
+.wealthy {
+  top: 1%;
+}
+```
+
+```css
+#me .lookingGood{
+  backface-visibility: hidden;
+}
+```
+
+```css
+.teeth {
+  gap: 10px;
+}
+```
+
+```css
+.addams {
+  font-family: "do do do do clap clap";
+}
+```
+
+```css
+.bond {
+    color: #007;
+}
+```
+
+```css
 .oliver-queen {
   cursor: arrow;
 }
@@ -51,6 +88,13 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   perspective: inherit;
 }
 ```
+
+```css
+#johncena {
+  visibility:hidden;
+} 
+```
+
 
 ```css
 #usa + #mexico {
@@ -829,6 +873,20 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.internet-explorer {
+     break-inside:auto;
+}
+```
+
+```css
+.popeye + .spinach {
+  width: 40px;
+  height: 140px;
+  transform: scale(10);
+}
+```
+
+```css
 .push-up-bra {
   margin-top: -25%;
   overflow: visible;
@@ -973,16 +1031,45 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   position: fixed;
 }
 ```
+
 ```css
 .liberal {
   left: 100%;
 }
 ```
+
 ```css
 .puns :: before {
-content:  " ";
+  content:  " ";
 }
+```
+
+```css
 .puns :: after {
-content:  " Stomach pain, Smile, Laugh";
+  content:  " Stomach pain, Smile, Laugh";
+}
+```
+
+```css
+.rich-people {
+  top:1%;
+}
+```
+
+```css
+.working-class{
+  bottom: 99%;
+}
+```
+
+```css
+.new-zealand {
+  border: none;
+}
+```
+
+```css
+#guy-lafleur {
+  float: right;
 }
 ```
