@@ -48,6 +48,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.books.last-opened{
+  display: none;
+}
+```
+
+```css
 .oliver-queen {
   cursor: arrow;
 }
