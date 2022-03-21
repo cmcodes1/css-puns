@@ -3,6 +3,43 @@
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
+.middle-finger {
+  display:flex;
+  justify-content:center;
+}
+```
+
+```css
+.wealthy {
+  top: 1%;
+}
+```
+
+```css
+#me .lookingGood{
+  backface-visibility: hidden;
+}
+```
+
+```css
+.teeth {
+  gap: 10px;
+}
+```
+
+```css
+.addams {
+  font-family: "do do do do clap clap";
+}
+```
+
+```css
+.bond {
+    color: #007;
+}
+```
+
+```css
 .oliver-queen {
   cursor: arrow;
 }
@@ -973,16 +1010,33 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   position: fixed;
 }
 ```
+
 ```css
 .liberal {
   left: 100%;
 }
 ```
+
 ```css
 .rich-people {
   top:1%;
 }
+```
+
+```css
 .working-class{
   bottom: 99%;
+}
+```
+
+```css
+.new-zealand {
+  border: none;
+}
+```
+
+```css
+#guy-lafleur {
+  float: right;
 }
 ```
