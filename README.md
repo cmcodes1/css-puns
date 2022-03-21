@@ -4,11 +4,40 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 .middle-finger {
-display:flex;
-justify-content:center;
+  display:flex;
+  justify-content:center;
 }
 ```
 
+```css
+.wealthy {
+  top: 1%;
+}
+```
+
+```css
+#me .lookingGood{
+  backface-visibility: hidden;
+}
+```
+
+```css
+.teeth {
+  gap: 10px;
+}
+```
+
+```css
+.addams {
+  font-family: "do do do do clap clap";
+}
+```
+
+```css
+.bond {
+    color: #007;
+}
+```
 
 ```css
 .oliver-queen {
@@ -981,8 +1010,21 @@ justify-content:center;
   position: fixed;
 }
 ```
+
 ```css
 .liberal {
   left: 100%;
+}
+```
+
+```css
+.new-zealand {
+  border: none;
+}
+```
+
+```css
+#guy-lafleur {
+  float: right;
 }
 ```
