@@ -3,8 +3,20 @@
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
+.wealthy {
+  top: 1%;
+}
+```
+
+```css
 #me .lookingGood{
   backface-visibility: hidden;
+}
+```
+
+```css
+.teeth {
+  gap: 10px;
 }
 ```
 
