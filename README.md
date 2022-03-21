@@ -9,6 +9,18 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.addams {
+  font-family: "do do do do clap clap";
+}
+```
+
+```css
+.bond {
+    color: #007;
+}
+```
+
+```css
 .oliver-queen {
   cursor: arrow;
 }
@@ -979,8 +991,15 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   position: fixed;
 }
 ```
+
 ```css
 .liberal {
   left: 100%;
+}
+```
+
+```css
+#guy-lafleur {
+  float: right;
 }
 ```
