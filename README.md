@@ -312,13 +312,6 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-#wife {
-  right: 100%;
-  margin: 0%;
-}
-```
-
-```css
 #over-the-fence .grass {
   color: green;
 }
