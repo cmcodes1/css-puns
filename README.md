@@ -2,7 +2,6 @@
 
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
-
 ```css
 .luck {
   display:none;
@@ -1098,5 +1097,11 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 #guy-lafleur {
   float: right;
+}
+```
+
+```css
+.minecraft {
+  display: block;
 }
 ```
