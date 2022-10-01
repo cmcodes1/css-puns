@@ -1100,3 +1100,9 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   float: right;
 }
 ```
+
+```css
+.socialDistancing {
+  margin: 6912px; /* 6 feet */
+}
+```
