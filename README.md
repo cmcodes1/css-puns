@@ -2,6 +2,19 @@
 
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
+```css
+.usa > .marijuana-laws {
+  .federal {
+    cursor: not-allowed !important;
+    .state {
+      cursor: wait;
+      &.AK, &.CA, &.CO, &.ME, &.MA, &.NV, &.OR, &.WA {
+        cursor: progress;
+      }
+    }
+  }
+}
+```
 
 ```css
 .luck {
