@@ -822,6 +822,13 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+#beyonce .better-put-a-ring-on-it {
+  outline: solid 0.6cm goldenrod;
+  border-radius: 2cm;
+}
+```
+
+```css
 .internet-explorer {
   visibility: none;
 }
