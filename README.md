@@ -1100,3 +1100,9 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   float: right;
 }
 ```
+
+```css
+#errors .inmycode{
+  800LinesCode : "1000ErrorsDetected"
+}
+```
