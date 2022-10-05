@@ -3,6 +3,15 @@
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 
+
+```css
+.thanos{
+  width:50%;
+  height:50%;
+}
+```
+
+
 ```css
 .luck {
   display:none;
