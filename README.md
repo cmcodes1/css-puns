@@ -2,6 +2,15 @@
 
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
+```css
+.rich-people{
+  top:1%;
+}
+
+.poor-people{
+  bottom:99%;
+}
+```
 
 ```css
 .luck {
