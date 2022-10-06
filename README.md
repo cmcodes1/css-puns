@@ -1100,3 +1100,11 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   float: right;
 }
 ```
+
+```
+css
+.why-did-the-chicken-cross-the-road {
+  text-align: left;
+  text-align: right;
+}
+```
