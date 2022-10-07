@@ -4,7 +4,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 
 ```css
-#north-korea.government{
+#north-korea.government {
   transition:none;
 }
 ```
