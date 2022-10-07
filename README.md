@@ -2,194 +2,197 @@
 
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
-
 ```css
 .luck {
-  display:none;
+	display: none;
 }
 ```
 
+```css
+#nsa {
+	opacity: 1;
+}
+```
 
 ```css
 .middle-finger {
-  display:flex;
-  justify-content:center;
+	display: flex;
+	justify-content: center;
 }
 ```
 
 ```css
 .wealthy {
-  top: 1%;
+	top: 1%;
 }
 ```
 
 ```css
-#me .lookingGood{
-  backface-visibility: hidden;
+#me .lookingGood {
+	backface-visibility: hidden;
 }
 ```
 
 ```css
 .teeth {
-  gap: 10px;
+	gap: 10px;
 }
 ```
 
 ```css
 .addams {
-  font-family: "do do do do clap clap";
+	font-family: "do do do do clap clap";
 }
 ```
 
 ```css
 .bond {
-    color: #007;
+	color: #007;
 }
 ```
 
 ```css
-.books.last-opened{
-  display: none;
+.books.last-opened {
+	display: none;
 }
 ```
 
 ```css
 .jamba-juice {
-  mix-blend-mode: normal;
-  color: green;
+	mix-blend-mode: normal;
+	color: green;
 }
 ```
 
 ```css
 .oliver-queen {
-  cursor: arrow;
+	cursor: arrow;
 }
 ```
 
 ```css
 .up {
-  animation-direction: reverse;
-  float: unset;
+	animation-direction: reverse;
+	float: unset;
 }
 ```
 
 ```css
 .mosquito-net {
-  display: grid;
+	display: grid;
 }
 ```
 
 ```css
 .your-fat-darling:hover {
-  transform: scaleX(100);
+	transform: scaleX(100);
 }
 ```
 
 ```css
 .belly {
-  overflow: visible;
+	overflow: visible;
 }
 ```
 
 ```css
 .stammer {
-  animation-delay: 1s;
+	animation-delay: 1s;
 }
 ```
 
 ```css
 .polluted-air {
-  visibility: none;
-  background-color: black;
+	visibility: none;
+	background-color: black;
 }
 ```
 
 ```css
 .religious-upbringing {
-  perspective: inherit;
+	perspective: inherit;
 }
 ```
 
 ```css
 #johncena {
-  visibility:hidden;
-} 
+	visibility: hidden;
+}
 ```
-
 
 ```css
 #usa + #mexico {
-  border: 1px dashed;
+	border: 1px dashed;
 }
 ```
 
 ```css
 .tight-pants {
-  align-items: stretch;
+	align-items: stretch;
 }
 ```
 
 ```css
 #hacktober_tshirt {
-  display: flex;
-  justify-content: center;
+	display: flex;
+	justify-content: center;
 }
 ```
 
 ```css
 .periods {
-  align-content: center;
-  overflow: hidden;
+	align-content: center;
+	overflow: hidden;
 }
 ```
 
 ```css
 .student:focus {
-  isolation: isolate;
+	isolation: isolate;
 }
 ```
 
 ```css
 #programmer.girlfriend {
-  display: none;
+	display: none;
 }
 ```
 
 ```css
 #who_asked {
-  visibility: hidden;
-  text-decoration: none;
+	visibility: hidden;
+	text-decoration: none;
 }
 ```
 
 ```css
 #wife {
-  right: 100%;
-  margin: 0;
+	right: 100%;
+	margin: 0;
 }
 ```
 
 ```css
 .monarch {
-  position: inherit;
+	position: inherit;
 }
 ```
 
 ```css
 .china {
-  border-style: solid;
+	border-style: solid;
 }
 ```
 
 ```css
 #luffy.boa {
-  visibility: false;
+	visibility: false;
 }
 ```
 
 ```css
 #luffy.meat {
-  visibility: true;
+	visibility: true;
 }
 ```
 
@@ -201,235 +204,235 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 #me .sleep {
-  position: relative;
-  padding-top: 20%;
-  transform: skewY(150deg);
+	position: relative;
+	padding-top: 20%;
+	transform: skewY(150deg);
 }
 ```
 
 ```css
 #what_color_am_i {
-  display: block;
-  margin: auto;
-  width: 100%;
-  height: 100vh;
-  color: #fff;
-  background: linear-gradient(
-    -45deg,
-    #ff944d,
-    #ee7752,
-    #e73c7e,
-    #23a6d5,
-    #23d5ab,
-    #00b359
-  );
-  background-size: 400%, 400%;
-  position: relative;
-  animation: animate 10s ease-in-out infinite;
+	display: block;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	color: #fff;
+	background: linear-gradient(
+		-45deg,
+		#ff944d,
+		#ee7752,
+		#e73c7e,
+		#23a6d5,
+		#23d5ab,
+		#00b359
+	);
+	background-size: 400%, 400%;
+	position: relative;
+	animation: animate 10s ease-in-out infinite;
 }
 
 @keyframes animate {
-  0% {
-    background-position: 0 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0 50%;
-  }
+	0% {
+		background-position: 0 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0 50%;
+	}
 }
 ```
 
 ```css
 #bruce-banner {
-  color: green;
-  transition: 10s;
+	color: green;
+	transition: 10s;
 }
 ```
 
 ```css
 #infinity-edge-pools {
-  overflow: hidden;
+	overflow: hidden;
 }
 ```
 
 ```css
 #bodybuilder {
-  display: flex;
+	display: flex;
 }
 ```
 
 ```css
 .bodybuilder + .protein {
-  flex-grow: 1;
+	flex-grow: 1;
 }
 ```
 
 ```css
 #titanic {
-  float: none;
+	float: none;
 }
 ```
 
 ```css
 #redmi-mobile-ads {
-  display: block;
-  transform: scale(100%);
-  filter: blur(20px);
+	display: block;
+	transform: scale(100%);
+	filter: blur(20px);
 }
 ```
 
 ```css
 .ninja {
-  visibility: hidden;
-  color: black;
-  animation-duration: 0.00001s;
+	visibility: hidden;
+	color: black;
+	animation-duration: 0.00001s;
 }
 ```
 
 ```css
 .invisibility-cloak + #harry-potter {
-  visibility: hidden;
+	visibility: hidden;
 }
 ```
 
 ```css
 #tower-of-pisa {
-  font-style: italic;
+	font-style: italic;
 }
 ```
 
 ```css
 #bruce-banner {
-  color: white;
-  transition: color 10s;
+	color: white;
+	transition: color 10s;
 }
 
 #bruce-banner.the-hulk {
-  color: green;
+	color: green;
 }
 ```
 
 ```css
 #wife {
-  right: 100%;
-  margin: 0%;
+	right: 100%;
+	margin: 0%;
 }
 ```
 
 ```css
 #over-the-fence .grass {
-  color: green;
+	color: green;
 }
 ```
 
 ```css
 .illuminati {
-  position: absolute;
-  visibility: hidden;
+	position: absolute;
+	visibility: hidden;
 }
 ```
 
 ```css
 .ghost {
-  opacity: 0.1;
-  pointer-events: none;
+	opacity: 0.1;
+	pointer-events: none;
 }
 ```
 
 ```css
 .dragon-ball {
-  z-index: 9001;
+	z-index: 9001;
 }
 ```
 
 ```css
 .fear {
-  display: none;
+	display: none;
 }
 ```
 
 ```css
 #chucknorris {
-  color: #bada55;
+	color: #bada55;
 }
 ```
 
 ```css
 .yomama {
-  width: 999999px;
+	width: 999999px;
 }
 ```
 
 ```css
 .reader-eye {
-  filter: blur(100px);
-  background-color: black;
+	filter: blur(100px);
+	background-color: black;
 }
 ```
 
 ```css
 #rap-artist {
-  word-spacing: 0;
+	word-spacing: 0;
 }
 ```
 
 ```css
 #titanic {
-  float: none;
+	float: none;
 }
 ```
 
 ```css
 .periodic {
-  display: table;
+	display: table;
 }
 ```
 
 ```css
 #rap-artists {
-  word-spacing: none;
+	word-spacing: none;
 }
 ```
 
 ```css
 .titanic {
-  float: none;
+	float: none;
 }
 ```
 
 ```css
 .hobbit {
-  height: 50%;
+	height: 50%;
 }
 .hobbit #foot {
-  width: 200%;
+	width: 200%;
 }
 ```
 
 ```css
 .eminem {
-  word-spacing: 0;
+	word-spacing: 0;
 }
 ```
 
 ```css
 #usa + #mexico {
-  border: 1px dashed;
+	border: 1px dashed;
 }
 ```
 
 ```css
 .titanic {
-  float: none;
-  bottom: 0;
+	float: none;
+	bottom: 0;
 }
 ```
 
 ```css
 .sniper-mode-engaged {
-  cursor: crosshair;
+	cursor: crosshair;
 }
 ```
 
@@ -441,353 +444,353 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 #lego {
-  display: block;
+	display: block;
 }
 ```
 
 ```css
 #titanic {
-  float: none;
+	float: none;
 }
 ```
 
 ```css
 #invisiblity-cloak {
-  visiblity: hidden;
+	visiblity: hidden;
 }
 ```
 
 ```css
 #muscles {
-  display: flex;
+	display: flex;
 }
 ```
 
 ```css
 .yomama {
-  width: 999999px;
+	width: 999999px;
 }
 ```
 
 ```css
 #samsung {
-  @extend apple;
+	@extend apple;
 }
 ```
 
 ```css
 #berlin-wall {
-  border-collapse: collapse;
-  height: 0;
+	border-collapse: collapse;
+	height: 0;
 }
 ```
 
 ```css
 #moses > #sea {
-  column-count: 2;
+	column-count: 2;
 }
 ```
 
 ```css
 #tortoise {
-  position: static;
+	position: static;
 }
 ```
 
 ```css
 #kim-kardashian {
-  padding-bottom: 9999px;
+	padding-bottom: 9999px;
 }
 ```
 
 ```css
 #ocean {
-  background-color: blue;
+	background-color: blue;
 }
 ```
 
 ```css
 .bambis-mom {
-  cursor: crosshair;
-  orphans: 1;
+	cursor: crosshair;
+	orphans: 1;
 }
 ```
 
 ```css
 #domino {
-  font-style: italic;
+	font-style: italic;
 }
 ```
 
 ```css
 .rich-people {
-  top: 1%;
+	top: 1%;
 }
 
 .working-class {
-  bottom: 99%;
+	bottom: 99%;
 }
 ```
 
 ```css
 #save-my-life {
-  display: flex;
+	display: flex;
 }
 ```
 
 ```css
 #earth {
-  border-radius: 50%;
+	border-radius: 50%;
 }
 ```
 
 ```css
 #ikea {
-  display: table;
+	display: table;
 }
 ```
 
 ```css
 #dwayne-johnson {
-  font-weight: bold;
+	font-weight: bold;
 }
 ```
 
 ```css
 #corona > .quarantine {
-  break-inside: initial;
+	break-inside: initial;
 }
 ```
 
 ```css
 #rip {
-  bottom: -22677px;
+	bottom: -22677px;
 }
 ```
 
 ```css
 #weasley-family-hair {
-  color: orange;
+	color: orange;
 }
 ```
 
 ```css
 .autobots {
-  transform: translate3d();
+	transform: translate3d();
 }
 ```
 
 ```css
 #deadpool {
-  color: #deadbeef;
+	color: #deadbeef;
 }
 ```
 
 ```css
 #dwayne-johnson {
-  height: 150%;
-  font-weight: bold;
+	height: 150%;
+	font-weight: bold;
 }
 
 #kevin-hart {
-  height: 50%;
-  font-weight: lighter;
+	height: 50%;
+	font-weight: lighter;
 }
 ```
 
 ```css
 #goku-hair {
-  color: black;
-  transition: color 9001s;
+	color: black;
+	transition: color 9001s;
 }
 
 #goku-hair.super-saiyan {
-  color: yellow;
+	color: yellow;
 }
 ```
 
 ```css
 .ghost {
-  display: inline;
-  color: white;
-  opacity: 0.1;
+	display: inline;
+	color: white;
+	opacity: 0.1;
 }
 ```
 
 ```css
 .karen {
-  position: absolute;
-  width: 200%;
-  z-index: 999;
+	position: absolute;
+	width: 200%;
+	z-index: 999;
 }
 ```
 
 ```css
 #dictatorship {
-  position: absolute;
+	position: absolute;
 }
 ```
 
 ```css
 .obese {
-  width: 200%;
-  overflow: visible;
+	width: 200%;
+	overflow: visible;
 }
 ```
 
 ```css
 #mario.mushroom {
-  transform: scale(200%);
+	transform: scale(200%);
 }
 ```
 
 ```css
 #brazil {
-  background: green;
-  border-color: blue;
-  color: yellow;
+	background: green;
+	border-color: blue;
+	color: yellow;
 }
 ```
 
 ```css
 .internet-explorer {
-  break-inside: auto;
+	break-inside: auto;
 }
 ```
 
 ```css
 @media print {
-  .news {
-    content: open-quote;
-  }
+	.news {
+		content: open-quote;
+	}
 }
 ```
 
 ```css
 #bermuda-triangle {
-  display: none;
+	display: none;
 }
 ```
 
 ```css
 .lender + .borrower {
-  visibility: hidden;
+	visibility: hidden;
 }
 ```
 
 ```css
 #monarch {
-  position: inherit;
+	position: inherit;
 }
 ```
 
 ````css
 #prison .escape {
-  empty-cells: show;
+	empty-cells: show;
 }
 ``` ```css #tower-of-pisa {
-  font-style: italic;
+	font-style: italic;
 }
 ````
 
 ```css
 .court > .advocate {
-  justify-content: inherit;
+	justify-content: inherit;
 }
 ```
 
 ```css
 .boku-no-pico {
-  display: none;
+	display: none;
 }
 ```
 
 ```css
 #europe {
-  border: none;
+	border: none;
 }
 ```
 
 ```css
 #big-bang::before {
-  content: "";
+	content: "";
 }
 ```
 
 ```css
 .optimism {
-  colour: rose;
-  opacity: 0.5;
+	colour: rose;
+	opacity: 0.5;
 }
 ```
 
 ```css
 #move-forward {
-  colour: green;
+	colour: green;
 }
 ```
 
 ```css
 .john-cena {
-  visibility: none;
+	visibility: none;
 }
 ```
 
 ```css
 #stop {
-  colour: red;
+	colour: red;
 }
 ```
 
 ```css
 .government {
-  transition: all 4yr ease-out;
+	transition: all 4yr ease-out;
 }
 ```
 
 ````css
 .uncle {
-  position: relative;
+	position: relative;
 }
 ``` ```css .ariana-grande {
-  display: ponytail;
+	display: ponytail;
 }
 ````
 
 ```css
 #undertaker {
-  transition: 1s ease-out;
-  color: black;
-  opacity: 0;
+	transition: 1s ease-out;
+	color: black;
+	opacity: 0;
 }
 ```
 
 ```css
 #delorean {
-  z-index: -1955;
+	z-index: -1955;
 }
 ```
 
 ```css
 .copy-and-paste {
-  cursor: not-allowed;
+	cursor: not-allowed;
 }
 ```
 
 ```css
 #crustyCrab {
-  color: red;
-  height: 100px;
-  position: absolute;
-  visibility: hidden;
-  width: 100px;
+	color: red;
+	height: 100px;
+	position: absolute;
+	visibility: hidden;
+	width: 100px;
 }
 ```
 
 ```css
 .taj-mahal {
-  color: white;
-  display: flex;
+	color: white;
+	display: flex;
 }
 ```
 
@@ -798,7 +801,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 .religious-upbringing {
-  perspective: inherit;
+	perspective: inherit;
 }
 ```
 
@@ -810,293 +813,293 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 .eminem {
-  word-spacing: 0;
-  animation-duration: 0.00001s;
+	word-spacing: 0;
+	animation-duration: 0.00001s;
 }
 ```
 
 ```css
 #beyonce .everything-you-own {
-  margin: 0 auto 0 0;
+	margin: 0 auto 0 0;
 }
 ```
 
 ```css
 .internet-explorer {
-  visibility: none;
+	visibility: none;
 }
 ```
 
 ```css
 .windows-11 {
-  border-radius: 10px;
+	border-radius: 10px;
 }
 ```
 
 ```css
 .belly {
-  overflow: visible;
+	overflow: visible;
 }
 ```
 
 ```css
 .label {
-  margin: 0 auto;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border-radius: 100px;
-  position: relative;
-  cursor: pointer;
-  text-indent: -9999px;
-  width: 55px;
-  height: 30px;
-  background: var(--btn);
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 100px;
+	position: relative;
+	cursor: pointer;
+	text-indent: -9999px;
+	width: 55px;
+	height: 30px;
+	background: var(--btn);
 }
 ```
 
 ```css
 .skywalks {
-  opacity: 0%;
-  border: 0%;
-  content: "";
+	opacity: 0%;
+	border: 0%;
+	content: "";
 }
 ```
 
 ```css
 .democrat {
-  float: left;
+	float: left;
 }
 ```
 
 ```css
 .republican {
-  float: right;
+	float: right;
 }
 ```
 
 ```css
 .cupcakes-ready {
-  overflow: visible;
+	overflow: visible;
 }
 ```
 
 ```css
 .einstein {
-  position: relative;
+	position: relative;
 }
 ```
 
 ```css
 .internet-explorer {
-     break-inside:auto;
+	break-inside: auto;
 }
 ```
 
 ```css
 .popeye + .spinach {
-  width: 40px;
-  height: 140px;
-  transform: scale(10);
+	width: 40px;
+	height: 140px;
+	transform: scale(10);
 }
 ```
 
 ```css
 .push-up-bra {
-  margin-top: -25%;
-  overflow: visible;
+	margin-top: -25%;
+	overflow: visible;
 }
 ```
 
 ```css
 .Ferrari {
-  color: yellow;
-  width: 100%;
-  height: 10%;
+	color: yellow;
+	width: 100%;
+	height: 10%;
 }
 ```
 
 ```css
 #fiona {
-  color: white;
-  transition: color 10s;
+	color: white;
+	transition: color 10s;
 }
 ```
 
 ```css
 #fiona.sunset {
-  color: green;
+	color: green;
 }
 ```
 
 ```css
 .money {
-  display: none;
+	display: none;
 }
 ```
 
 ```css
 .volei {
-  display: block;
+	display: block;
 }
 ```
 
 ```css
 .cat {
-  box-sizing: content-box;
+	box-sizing: content-box;
 }
 ```
 
 ```css
 .vampire {
-  -webkit-box-reflect: none;
+	-webkit-box-reflect: none;
 }
 ```
 
 ```css
 .apple {
-  color: space-gray;
+	color: space-gray;
 }
 ```
 
 ```css
 .rich-people {
-  top: 1%;
+	top: 1%;
 }
 
 .working-class {
-  bottom: 1%;
+	bottom: 1%;
 }
 ```
 
 ```css
 .thumbs {
-  vertical-align: top;
+	vertical-align: top;
 }
 ```
 
 ```css
 .country-music-concert {
-  white-space: nowrap;
+	white-space: nowrap;
 }
 ```
 
 ```css
 .center-div-bug {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 0 auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 0 auto;
 }
 ```
 
 ```css
 #periodic {
-  display: table;
+	display: table;
 }
 ```
 
 ```css
 .water {
-  opacity: 0;
+	opacity: 0;
 }
 ```
 
 ```css
 .boat {
-  float: right;
+	float: right;
 }
 ```
 
 ```css
 .optimus-prime {
-  transform: initial;
+	transform: initial;
 }
 ```
 
 ```css
 .obese {
-  width: 200%;
-  overflow: visible;
+	width: 200%;
+	overflow: visible;
 }
 ```
 
 ```css
 .china {
-  border-style: solid;
+	border-style: solid;
 }
 ```
 
 ```css
 .illuminati {
-  position: absolute;
-  visibility: hidden;
+	position: absolute;
+	visibility: hidden;
 }
 ```
 
 ```css
 .rip {
-  bottom: -6912px;
-  /* 6912px = 6 feet; */
+	bottom: -6912px;
+	/* 6912px = 6 feet; */
 }
 ```
 
 ```css
 .god {
-  position: fixed;
+	position: fixed;
 }
 ```
 
 ```css
 .liberal {
-  left: 100%;
+	left: 100%;
 }
 ```
 
 ```css
 .sunglass {
-  opacity: 0.5;
+	opacity: 0.5;
 }
 ```
 
-```css 
+```css
 .modest {
-    flex: 0%;
-  }
+	flex: 0%;
+}
 ```
 
 ```css
 .puns :: before {
-  content:  " ";
+	content: " ";
 }
 ```
 
 ```css
 .puns :: after {
-  content:  " Stomach pain, Smile, Laugh";
+	content: " Stomach pain, Smile, Laugh";
 }
 ```
 
 ```css
 .rich-people {
-  top:1%;
+	top: 1%;
 }
 ```
 
 ```css
-.working-class{
-  bottom: 99%;
+.working-class {
+	bottom: 99%;
 }
 ```
 
 ```css
 .new-zealand {
-  border: none;
+	border: none;
 }
 ```
 
 ```css
 #guy-lafleur {
-  float: right;
+	float: right;
 }
 ```
