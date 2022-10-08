@@ -4,6 +4,13 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 
 ```css
+.ego {
+  display:none;
+  size: 400%;
+}
+```
+
+```css
 .luck {
   display:none;
 }
