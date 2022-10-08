@@ -2,6 +2,18 @@
 
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
+```css
+.Ex-girlfriend{
+  margin:1000px;
+}
+```
+
+```css
+.future {
+  display:none;
+}
+```
+
 
 ```css
 .luck {
