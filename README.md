@@ -2,6 +2,14 @@
 
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
+```css
+.pizza {
+  font-style: italic;
+  font-weight: bold;
+  align-self: stretch;
+}
+```
+
 
 ```css
 .luck {
