@@ -1105,3 +1105,8 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 #muscles{
   display:flex;
   }
+
+```css
+#eminem-rap{
+word-spacing: 0;
+}
