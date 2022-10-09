@@ -1100,3 +1100,10 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   float: right;
 }
 ```
+
+```css
+#class-board {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+```
+
