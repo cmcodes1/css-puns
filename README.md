@@ -2,6 +2,23 @@
 
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
+```css
+.imblue {
+  animation: walking 5s infinite;
+  background: blue;
+  color: blue;
+  font-style: italic;
+}
+
+.imblue::before {
+  content:  "Da Ba Dee";
+}
+
+.imblue::after {
+  content:  "Da Ba Di";
+}
+```
+
 
 ```css
 .luck {
