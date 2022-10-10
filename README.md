@@ -2,6 +2,11 @@
 
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
+```css
+#mario.mini-mushroom {
+  transform: scale(50%);
+}
+```
 
 ```css
 .luck {
