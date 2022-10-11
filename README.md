@@ -4,6 +4,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 
 ```css
+#exams + .my-brain {
+  empty-cells:inherit;
+}
+```
+
+```css
 .luck {
   display:none;
 }
