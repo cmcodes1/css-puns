@@ -1100,3 +1100,11 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   float: right;
 }
 ```
+
+```css
+.developer-when-girls-around{
+  display:none;
+  transform:scale(0)
+}
+```
+
