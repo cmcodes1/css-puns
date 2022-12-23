@@ -1100,3 +1100,15 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   float: right;
 }
 ```
+
+```css
+.street-food-business{
+ margin: 0%;
+}
+```
+ 
+```css
+.minecraft{
+ display: block;
+}
+```
