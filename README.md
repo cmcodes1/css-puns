@@ -1210,6 +1210,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+#fear {
+  display: none;
+}
+```
+
+```css
 #muscles {
   display:flex;
 }
