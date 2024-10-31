@@ -1105,3 +1105,65 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   float: right;
 }
 ```
+
+```css
+.socialDistancing {
+  margin: 6912px; /* 6 feet */
+}
+```
+
+```css
+.ninja {
+  color: black;
+  visibility: hidden;
+  animation-duration: 0.0001s;
+}
+```
+
+```css
+.ghost {
+  color: white;
+  opacity: 0.1;
+}
+```
+
+```css
+.rap-artists {
+  word-spacing: 0;
+}
+```
+
+```css
+#bruce-banner {
+  color: white;
+  transition: color 10s;
+}
+
+#bruce-banner.hulk {
+  color: green;
+}
+```
+
+```css
+.kim-kardashian {
+  padding-bottom: 999px;
+}
+```
+
+```css
+#mario.mushroom {
+  transform: scale(200%);
+}
+```
+
+```css
+.autobots {
+  transform: translate3d();
+}
+```
+
+```css
+#ikea {
+  display: table;
+}
+```
