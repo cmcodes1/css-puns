@@ -1173,6 +1173,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+#wife {
+  display: none;
+}
+```
+
+```css
 .philosopher {
   position: relative;
 }
