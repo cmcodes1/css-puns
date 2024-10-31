@@ -3,6 +3,12 @@
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
+.MVP {
+  z-index: 999;
+}
+```
+
+```css
 .fog {
   visibility: hidden;
 }
