@@ -1173,6 +1173,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+#dark-web .hackers {
+  visibility: hidden;
+}
+```
+
+```css
 #wife {
   display: none;
 }
