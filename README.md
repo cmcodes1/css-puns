@@ -1113,6 +1113,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+#nsa { 
+  opacity: 1; 
+}
+```
+
+```css
 .yoga {
   align-self: center;
 }
