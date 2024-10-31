@@ -58,11 +58,6 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-.liberal {
-  left: 100%;
-```
-
-```css
 .infinity-pool {
   overflow: hidden;
 }
@@ -85,12 +80,6 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
       }
     }
   }
-```
-
-```css
-#kim-kardashian {
-  padding-bottom: 9999px;
-}
 ```
 
 ```css
@@ -209,12 +198,6 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 .polluted-air {
   visibility: none;
   background-color: black;
-}
-```
-
-```css
-.religious-upbringing {
-  perspective: inherit;
 }
 ```
 
@@ -381,12 +364,6 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-#titanic {
-  float: none;
-}
-```
-
-```css
 #redmi-mobile-ads {
   display: block;
   transform: scale(100%);
@@ -422,13 +399,6 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 #bruce-banner.the-hulk {
   color: green;
-}
-```
-
-```css
-#wife {
-  right: 100%;
-  margin: 0%;
 }
 ```
 
@@ -490,12 +460,6 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-#titanic {
-  float: none;
-}
-```
-
-```css
 .periodic {
   display: table;
 }
@@ -508,29 +472,11 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-.titanic {
-  float: none;
-}
-```
-
-```css
 .hobbit {
   height: 50%;
 }
 .hobbit #foot {
   width: 200%;
-}
-```
-
-```css
-.eminem {
-  word-spacing: 0;
-}
-```
-
-```css
-#usa + #mexico {
-  border: 1px dashed;
 }
 ```
 
@@ -578,12 +524,6 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-.yomama {
-  width: 999999px;
-}
-```
-
-```css
 #samsung {
   @extend apple;
 }
@@ -605,12 +545,6 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 #tortoise {
   position: static;
-}
-```
-
-```css
-#kim-kardashian {
-  padding-bottom: 9999px;
 }
 ```
 
@@ -658,12 +592,6 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 #ikea {
   display: table;
-}
-```
-
-```css
-#dwayne-johnson {
-  font-weight: bold;
 }
 ```
 
@@ -790,19 +718,10 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-#monarch {
-  position: inherit;
-}
-```
-
-````css
 #prison .escape {
   empty-cells: show;
 }
-``` ```css #tower-of-pisa {
-  font-style: italic;
-}
-````
+```
 
 ```css
 .court > .advocate {
@@ -948,12 +867,6 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-.belly {
-  overflow: visible;
-}
-```
-
-```css
 .label {
   margin: 0 auto;
   display: flex;
@@ -998,12 +911,6 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 .einstein {
   position: relative;
-}
-```
-
-```css
-.internet-explorer {
-     break-inside:auto;
 }
 ```
 
@@ -1074,16 +981,6 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-.rich-people {
-  top: 1%;
-}
-
-.working-class {
-  bottom: 1%;
-}
-```
-
-```css
 .thumbs {
   vertical-align: top;
 }
@@ -1125,19 +1022,6 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 .optimus-prime {
   transform: initial;
-}
-```
-
-```css
-.obese {
-  width: 200%;
-  overflow: visible;
-}
-```
-
-```css
-.china {
-  border-style: solid;
 }
 ```
 
@@ -1188,18 +1072,6 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 .puns :: after {
   content:  " Stomach pain, Smile, Laugh";
-}
-```
-
-```css
-.rich-people {
-  top:1%;
-}
-```
-
-```css
-.working-class{
-  bottom: 99%;
 }
 ```
 
@@ -1377,25 +1249,8 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-#bruce-banner {
-  color: white;
-  transition: color 10s;
-}
-
-#bruce-banner.hulk {
-  color: green;
-}
-```
-
-```css
 .kim-kardashian {
   padding-bottom: 999px;
-}
-```
-
-```css
-#mario.mushroom {
-  transform: scale(200%);
 }
 ```
 
@@ -1406,19 +1261,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-.autobots {
-  transform: translate3d();
-}
-```
-
-```css
 #scott-lang .ant-man .giant{
   height: 1000%;
-}
-```
-
-```css
-#ikea {
-  display: table;
 }
 ```
