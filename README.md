@@ -1,9 +1,52 @@
 # css-puns
 
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
+
 ```css
 .liberal {
   left: 100%;
+```
+
+```css
+.infinity-pool {
+  overflow: hidden;
+}
+```
+
+```css
+#kim-kardashian {
+  padding-bottom: 9999px;
+}
+```
+
+```css
+.usa > .marijuana-laws {
+  .federal {
+    cursor: not-allowed !important;
+    .state {
+      cursor: wait;
+      &.AK, &.CA, &.CO, &.ME, &.MA, &.NV, &.OR, &.WA {
+        cursor: progress;
+      }
+    }
+  }
+```
+
+```css
+#kim-kardashian {
+  padding-bottom: 9999px;
+}
+```
+
+```css
+.MVP {
+  z-index: 999;
+}
+```
+
+```css
+.fog {
+  visibility: hidden;
 }
 ```
 
@@ -12,7 +55,6 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   display:none;
 }
 ```
-
 
 ```css
 .middle-finger {
@@ -144,6 +186,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 .periods {
   align-content: center;
   overflow: hidden;
+}
+```
+
+```css
+.Robert-Pershing-Wadlow  {
+  height: 100vh;
 }
 ```
 
@@ -1102,5 +1150,103 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 #guy-lafleur {
   float: right;
+}
+```
+
+```css
+#thanos ~ person::nth-child(2n) {
+  display: none;
+}
+```
+
+```css
+#future {
+  filter: brightness(500%);
+}
+```
+
+```css
+.pretty {
+  color: pink;
+}
+```
+
+```css
+#starbucks {
+  color: #c0ffee;
+}
+```
+
+```css
+#nsa { 
+  opacity: 1; 
+}
+```
+
+```css
+.yoga {
+  align-self: center;
+}
+```
+
+```css
+.socialDistancing {
+  margin: 6912px; /* 6 feet */
+}
+```
+
+```css
+.ninja {
+  color: black;
+  visibility: hidden;
+  animation-duration: 0.0001s;
+}
+```
+
+```css
+.ghost {
+  color: white;
+  opacity: 0.1;
+}
+```
+
+```css
+.rap-artists {
+  word-spacing: 0;
+}
+```
+
+```css
+#bruce-banner {
+  color: white;
+  transition: color 10s;
+}
+
+#bruce-banner.hulk {
+  color: green;
+}
+```
+
+```css
+.kim-kardashian {
+  padding-bottom: 999px;
+}
+```
+
+```css
+#mario.mushroom {
+  transform: scale(200%);
+}
+```
+
+```css
+.autobots {
+  transform: translate3d();
+}
+```
+
+```css
+#ikea {
+  display: table;
 }
 ```
