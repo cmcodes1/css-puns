@@ -185,6 +185,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.Robert-Pershing-Wadlow  {
+  height: 100vh;
+}
+```
+
+```css
 .student:focus {
   isolation: isolate;
 }
