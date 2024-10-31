@@ -1131,8 +1131,14 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+#future {
+  filter: brightness(500%);
+}
+```
+
+```css
 .pretty {
-  color:pink;
+  color: pink;
 }
 ```
 
