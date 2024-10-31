@@ -1100,3 +1100,11 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   float: right;
 }
 ```
+
+```css
+.ninja {
+  color: black;
+  visibility: hidden;
+  animation-duration: 0.0001s;
+}
+```
