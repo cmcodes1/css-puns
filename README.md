@@ -3,6 +3,11 @@
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
+.liberal {
+  left: 100%;
+```
+
+```css
 .infinity-pool {
   overflow: hidden;
 }
