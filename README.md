@@ -3,7 +3,7 @@
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
-#europe .country{
+#europe .country {
   border: none;
 }
 ```
@@ -30,12 +30,13 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 .sonic.super-form {
   @extend #goku-hair.super-saiyan;
+}
 ```
 
 ```css
 #flash {
-    position: relative;
-    visibility: hidden;
+  position: relative;
+  visibility: hidden;
 }
 ```
 
@@ -46,7 +47,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-.Ex-girlfriend{
+.Ex-girlfriend {
   margin: 1000px;
 }
 ```
@@ -54,6 +55,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 .future {
   display: none;
+}
+```
+
+```css
+.liberal {
+  left: 100%;
 }
 ```
 
@@ -75,11 +82,19 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
     cursor: not-allowed !important;
     .state {
       cursor: wait;
-      &.AK, &.CA, &.CO, &.ME, &.MA, &.NV, &.OR, &.WA {
+      &.AK,
+      &.CA,
+      &.CO,
+      &.ME,
+      &.MA,
+      &.NV,
+      &.OR,
+      &.WA {
         cursor: progress;
       }
     }
   }
+}
 ```
 
 ```css
@@ -96,21 +111,21 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 .ego {
-  display:none;
+  display: none;
   size: 400%;
 }
 ```
 
 ```css
 .luck {
-  display:none;
+  display: none;
 }
 ```
 
 ```css
 .middle-finger {
-  display:flex;
-  justify-content:center;
+  display: flex;
+  justify-content: center;
 }
 ```
 
@@ -121,7 +136,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-#me .lookingGood{
+#me .lookingGood {
   backface-visibility: hidden;
 }
 ```
@@ -140,12 +155,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 .bond {
-    color: #007;
+  color: #007;
 }
 ```
 
 ```css
-.books.last-opened{
+.books.last-opened {
   display: none;
 }
 ```
@@ -203,10 +218,9 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 #johncena {
-  visibility:hidden;
-} 
+  visibility: hidden;
+}
 ```
-
 
 ```css
 #usa + #mexico {
@@ -235,7 +249,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-.Robert-Pershing-Wadlow  {
+.Robert-Pershing-Wadlow {
   height: 100vh;
 }
 ```
@@ -294,6 +308,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 .aliens {
   color: green;
   visibility: hidden;
+}
 ```
 
 ```css
@@ -311,15 +326,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   width: 100%;
   height: 100vh;
   color: #fff;
-  background: linear-gradient(
-    -45deg,
-    #ff944d,
-    #ee7752,
-    #e73c7e,
-    #23a6d5,
-    #23d5ab,
-    #00b359
-  );
+  background: linear-gradient(-45deg, #ff944d, #ee7752, #e73c7e, #23a6d5, #23d5ab, #00b359);
   background-size: 400%, 400%;
   position: relative;
   animation: animate 10s ease-in-out infinite;
@@ -497,6 +504,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 .thor-dark-world {
   background-color: black;
   display: flex;
+}
 ```
 
 ```css
@@ -915,6 +923,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.internet-explorer {
+  break-inside: auto;
+}
+```
+
+```css
 .popeye + .spinach {
   width: 40px;
   height: 140px;
@@ -1057,21 +1071,33 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 }
 ```
 
-```css 
+```css
 .modest {
-    flex: 0%;
-  }
+  flex: 0%;
+}
 ```
 
 ```css
 .puns :: before {
-  content:  " ";
+  content: " ";
 }
 ```
 
 ```css
 .puns :: after {
-  content:  " Stomach pain, Smile, Laugh";
+  content: " Stomach pain, Smile, Laugh";
+}
+```
+
+```css
+.rich-people {
+  top: 1%;
+}
+```
+
+```css
+.working-class {
+  bottom: 99%;
 }
 ```
 
@@ -1095,25 +1121,26 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 #muscles {
-  display:flex;
+  display: flex;
 }
 ```
 
 ```css
 .street-food-business {
- margin: 0%;
+  margin: 0%;
 }
 ```
- 
+
 ```css
 .minecraft {
- display: block;
+  display: block;
 }
 ```
 
 ```css
 #scott-lang {
   height: 100%;
+}
 ```
 
 ```css
@@ -1203,8 +1230,8 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-#nsa { 
-  opacity: 1; 
+#nsa {
+  opacity: 1;
 }
 ```
 
@@ -1230,8 +1257,8 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 .obese {
-   width: 200%;
-   overflow: visible;
+  width: 200%;
+  overflow: visible;
 }
 ```
 
@@ -1261,7 +1288,13 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-#scott-lang .ant-man .giant{
+#scott-lang .ant-man .giant {
   height: 1000%;
+}
+```
+
+```css
+.autobots {
+  transform: translate3d();
 }
 ```
