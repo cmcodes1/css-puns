@@ -1149,6 +1149,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+#thanos ~ person::nth-child(2n) {
+  display: none;
+}
+```
+
+```css
 #future {
   filter: brightness(500%);
 }
