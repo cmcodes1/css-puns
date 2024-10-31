@@ -1210,7 +1210,13 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-.street-food-business{
+#muscles {
+  display:flex;
+}
+```
+
+```css
+.street-food-business {
  margin: 0%;
 }
 ```
@@ -1335,6 +1341,13 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   color: black;
   visibility: hidden;
   animation-duration: 0.0001s;
+}
+```
+
+```css
+.obese {
+   width: 200%;
+   overflow: visible;
 }
 ```
 
