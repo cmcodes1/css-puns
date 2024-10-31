@@ -1183,6 +1183,10 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 #guy-lafleur {
   float: right;
 }
+
+```css
+#scott-lang {
+  height: 100%;
 ```
 
 ```css
@@ -1334,8 +1338,20 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+#scott-lang .ant-man {
+  height: 1%;
+}
+```
+
+```css
 .autobots {
   transform: translate3d();
+}
+```
+
+```css
+#scott-lang .ant-man .giant{
+  height: 1000%;
 }
 ```
 
