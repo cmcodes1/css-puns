@@ -1134,6 +1134,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.kim-kardashian {
+  padding-bottom: 999px;
+}
+```
+
+```css
 #mario.mushroom {
   transform: scale(200%);
 }
