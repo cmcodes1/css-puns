@@ -1108,3 +1108,10 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   animation-duration: 0.0001s;
 }
 ```
+
+```css
+.ghost {
+  color: white;
+  opacity: 0.1;
+}
+```
