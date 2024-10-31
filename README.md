@@ -1102,6 +1102,12 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
+.socialDistancing {
+  margin: 6912px; /* 6 feet */
+}
+```
+
+```css
 .ninja {
   color: black;
   visibility: hidden;
