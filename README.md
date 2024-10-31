@@ -3,6 +3,12 @@
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
+#kim-kardashian {
+  padding-bottom: 9999px;
+}
+```
+
+```css
 .MVP {
   z-index: 999;
 }
@@ -19,7 +25,6 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
   display:none;
 }
 ```
-
 
 ```css
 .middle-finger {
