@@ -3,6 +3,17 @@
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
+.sonic {
+  color: blue;
+}
+```
+
+```css
+.sonic.super-form {
+  @extend #goku-hair.super-saiyan;
+```
+
+```css
 #flash {
     position: relative;
     visibility: hidden;
