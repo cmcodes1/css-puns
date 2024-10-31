@@ -1,7 +1,8 @@
 # Contribution Guide
-Welcome and thank you for sharing your CSS pun here! 😊  
 
-Add your CSS pun at the top in the [README.md](https://github.com/cmcodes1/css-puns/blob/main/README.md) page in the following format.
+Welcome and thank you for sharing your CSS pun here! 😊
+
+Add your CSS pun at the end of file in the [README.md](https://github.com/cmcodes1/css-puns/blob/main/README.md) page in the following format.
 
 - Add ` ```css ` in a new line before writing your pun
 - In the next line, type your pun
@@ -15,6 +16,7 @@ Add your CSS pun at the top in the [README.md](https://github.com/cmcodes1/css-p
 ```
 
 ## Submitting a pull request
+
 - Fork and clone the repository.
 - Add your pun after adding a line.
 - Push to your fork and submit a pull request.
